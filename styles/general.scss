@@ -1,0 +1,25 @@
+﻿* {
+    font-family: sans-serif;
+}
+
+html {
+    overflow-y: scroll;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+table td, table th {
+    padding: 15px;
+}
