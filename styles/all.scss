@@ -1,4 +1,3 @@
-﻿@import "general.scss";
-@import "layout.scss";
-@import "breadcrumb.scss";
-// todo: make a utility class for code
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
