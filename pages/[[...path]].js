@@ -13,12 +13,14 @@ const index = ({ urlSegments, content, errorCode }) => {
         return <Error statusCode={errorCode} />
     }
 
-    if (urlSegments.length == 0) {
-        return <div dangerouslySetInnerHTML={{ __html: content }}></div>
-    }
-
     return <>
-        <Breadcrumb urlSegments={urlSegments} />
+        {
+            urlSegments.length === 0
+                ?
+                null
+                :
+                <Breadcrumb urlSegments={urlSegments} />
+        }
         <div dangerouslySetInnerHTML={{ __html: content }}></div>
     </>
 }
