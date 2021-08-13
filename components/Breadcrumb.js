@@ -11,7 +11,7 @@ const Breadcrumb = ({ urlSegments }) => {
             text: urlSegments[i].split('-').map(i => i.charAt(0).toUpperCase() + i.slice(1)).join(' ')
         })
     }
-    return <div className="breadcrumb" className='h-20 flex items-center pl-5'>
+    return <div className='breadcrumb h-20 flex items-center pl-5'>
         <div>
             <a href="/">Home</a><span className="px-2">&gt;</span>
             {
