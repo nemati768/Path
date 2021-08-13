@@ -4,7 +4,7 @@ import Error from 'next/error';
 import Breadcrumb from '../components/Breadcrumb';
 const marked = require("marked");
 
-const index = ({ urlSegments, content, errorCode }) => {
+const index = ({ urlSegments, content, errorCode, type }) => {
 
     // set title from <h1> or first line with # in markdowns
     // include disqus maybe
@@ -13,13 +13,15 @@ const index = ({ urlSegments, content, errorCode }) => {
         return <Error statusCode={errorCode} />
     }
 
-    if (urlSegments.length == 0) {
-        return <div dangerouslySetInnerHTML={{ __html: content }}></div>
-    }
-
     return <>
-        <Breadcrumb urlSegments={urlSegments} />
-        <div dangerouslySetInnerHTML={{ __html: content }}></div>
+        {
+            urlSegments.length === 0
+                ?
+                null
+                :
+                <Breadcrumb urlSegments={urlSegments} />
+        }
+        <div className={type + (type === 'markdown' ? ' prose pl-10' : '')} dangerouslySetInnerHTML={{ __html: content }}></div>
     </>
 }
 
@@ -43,15 +45,17 @@ export async function getServerSideProps({ params, res }) {
         return result;
     }
     else {
+        var type = 'html';
         try {
             var content = fs.readFileSync(filePath, 'utf8');
             if (filePath.endsWith('.md')) {
+                type = 'markdown';
                 if (content.charCodeAt(0) == 65279) {
                     content = content.slice(1);
                 }
                 content = marked(content);
             }
-            const result = { props: { urlSegments: urlSegments, content: content } };
+            const result = { props: { urlSegments: urlSegments, content: content, type } };
             return result;
         } catch (e) {
             console.log(e);
