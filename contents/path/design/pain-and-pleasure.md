@@ -2,10 +2,10 @@
 
 | Pain | Pleasure |
 |------|----------|
-|      | Rest     |
-|      | Orgasm   |
-|      | Eating   |
-|      | Sleep    |
+|   burning   | Rest     |
+|    desease  | Orgasm   |
+|     fatigue | Eating   |
+|     loneliness | Sleep    |
 |      | Good smell |
 
 
