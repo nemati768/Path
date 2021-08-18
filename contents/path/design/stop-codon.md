@@ -1,5 +1,5 @@
 ﻿
-<h1>End Code</h1>
+<h1>stop Codon</h1>
 <p>
    End of process 
 <p>
