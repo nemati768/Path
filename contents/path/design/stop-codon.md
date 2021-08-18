@@ -1,7 +1,63 @@
 ﻿
-<h1>کدون خاتمه</h1>
-<p>پایان یافتن یه فرآیند دو تا حالت داره. یا مواد خام فرآیند تموم میشن، یا برای اتمام اون فرآیند تصمیم گرفته میشه. این تصمیم میتونه مستقیم باشه، یا به عنوان یه موضوع طراحی شده در سیستم تعبیه شه.</p>
-<ul>
+<h1>End Code</h1>
+<p>
+   End of process 
+<p>
+    1.	Exhaustion of raw materials
+    2.	Decision to terminate
+<p>
+    a-	Direct decision
+    b-	Designed theme to terminate
+    
+   <p> 
+     Protein Synthesis
+    
+       | Prokaryotes                                                        | Eukaryotes                                                                             |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|     Polycistronic mRNA                                             |     Monocistronic mRNA                                                                 |
+|     Coupled   transcription and translation                        |     No coupled   transcription and translation for nuclear genes                       |
+|     Linear polyribosomes                                           |     Circular   polyribosomes                                                           |
+|     No cap on mRNA                                                 |     5′ end of mRNA is   recognized by cap                                              |
+|     Start codon is next   AUG after ribosome-binding site          |     No ribosome-binding   site so first AUG in mRNA is used                            |
+|     First amino acid is   formyl-Met                               |     First Met is   unmodified                                                          |
+|     70S ribosomes made   of: 30S and 50S subunits                  |     80S ribosomes made   of: 40S and 60S subunits                                      |
+|     Small 30S subunit:   16S rRNA and 21 proteins                  |     Small 40S subunit:   18S rRNA and 33 proteins                                      |
+|     Large 50S subunit:   23S and 5S rRNA plus 31 proteins          |     Large 60S subunit:   28S, 5.8S and 5S rRNA plus 49 proteins                        |
+|     Elongation factors:   EF-T (2 subunits) and EF-G               |     Elongation factors:   eEF1 (3 subunits) and eEF2                                   |
+|     Three initiation   factors: IF1, IF2 and IF3                   |     Multiple initiation   factors: eIF2 (3 subunits), eIF3, eIF4 (4 subunits), eIF5    |
+|     Shut-off by   dimerization of ribosomes in nongrowing cells    |     Control via eIF   sequestration                                                    |
+       
+       
+
+    
+     <p>
+         https://www.sciencedirect.com/topics/medicine-and-dentistry/protein-synthesis
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
     <li>وقتی چوب و ذغال تموم شن، آتیش تموم میشه.</li>
     <li>با از بین رفتن ابر، بارش بارون تموم میشه.</li>
 </ul>
