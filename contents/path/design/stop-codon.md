@@ -11,8 +11,7 @@
     
    <p> 
      Protein Synthesis
-    
-       | Prokaryotes                                                        | Eukaryotes                                                                             |
+    | Prokaryotes                                                        | Eukaryotes                                                                             |
 |--------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |     Polycistronic mRNA                                             |     Monocistronic mRNA                                                                 |
 |     Coupled   transcription and translation                        |     No coupled   transcription and translation for nuclear genes                       |
