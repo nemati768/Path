@@ -1,11 +1,11 @@
 ﻿
 <h1>stop Codon</h1>
 <p>
-   End of process 
+   process termination
 <p>
-    1.	Exhaustion of raw materials
+    	resource Exhaustion 
    <p>
-    2.	Decision to terminate
+    	Decision
 <p>
     a-	Direct decision
    <p>
