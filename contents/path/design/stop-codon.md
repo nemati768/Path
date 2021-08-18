@@ -39,25 +39,7 @@
          https://www.sciencedirect.com/topics/medicine-and-dentistry/protein-synthesis
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <p>
     
     
     
