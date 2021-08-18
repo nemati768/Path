@@ -4,9 +4,11 @@
    End of process 
 <p>
     1.	Exhaustion of raw materials
+   <p>
     2.	Decision to terminate
 <p>
     a-	Direct decision
+   <p>
     b-	Designed theme to terminate
     
    <p> 
