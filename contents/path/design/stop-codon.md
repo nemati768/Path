@@ -11,20 +11,23 @@
     
    <p> 
      Protein Synthesis
-    | Prokaryotes                                                        | Eukaryotes                                                                             |
-|--------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-|     Polycistronic mRNA                                             |     Monocistronic mRNA                                                                 |
-|     Coupled   transcription and translation                        |     No coupled   transcription and translation for nuclear genes                       |
-|     Linear polyribosomes                                           |     Circular   polyribosomes                                                           |
-|     No cap on mRNA                                                 |     5′ end of mRNA is   recognized by cap                                              |
-|     Start codon is next   AUG after ribosome-binding site          |     No ribosome-binding   site so first AUG in mRNA is used                            |
-|     First amino acid is   formyl-Met                               |     First Met is   unmodified                                                          |
-|     70S ribosomes made   of: 30S and 50S subunits                  |     80S ribosomes made   of: 40S and 60S subunits                                      |
-|     Small 30S subunit:   16S rRNA and 21 proteins                  |     Small 40S subunit:   18S rRNA and 33 proteins                                      |
-|     Large 50S subunit:   23S and 5S rRNA plus 31 proteins          |     Large 60S subunit:   28S, 5.8S and 5S rRNA plus 49 proteins                        |
-|     Elongation factors:   EF-T (2 subunits) and EF-G               |     Elongation factors:   eEF1 (3 subunits) and eEF2                                   |
-|     Three initiation   factors: IF1, IF2 and IF3                   |     Multiple initiation   factors: eIF2 (3 subunits), eIF3, eIF4 (4 subunits), eIF5    |
-|     Shut-off by   dimerization of ribosomes in nongrowing cells    |     Control via eIF   sequestration                                                    |
+    
+   <p>   
+   
+    | Prokaryotes                                                                                                                           
+|--------------------------------------------------------------------|
+|     Polycistronic mRNA                                             |                                                                   
+|     Coupled   transcription and translation                        |                     
+|     Linear polyribosomes                                           |                                                          
+|     No cap on mRNA                                                 |                                               
+|     Start codon is next   AUG after ribosome-binding site          |                            
+|     First amino acid is   formyl-Met                               |                                                        
+|     70S ribosomes made   of: 30S and 50S subunits                  |                                          
+|     Small 30S subunit:   16S rRNA and 21 proteins                  |                                      
+|     Large 50S subunit:   23S and 5S rRNA plus 31 proteins          |                        
+|     Elongation factors:   EF-T (2 subunits) and EF-G               |                                    
+|     Three initiation   factors: IF1, IF2 and IF3                   |
+|     Shut-off by   dimerization of ribosomes in nongrowing cells    |
        
        
 
