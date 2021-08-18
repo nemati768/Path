@@ -15,7 +15,8 @@
    <p>   
    
     | Prokaryotes                                                                                                                           
-|--------------------------------------------------------------------|
+   <p>
+      
 |     Polycistronic mRNA                                             |                                                                   
 |     Coupled   transcription and translation                        |                     
 |     Linear polyribosomes                                           |                                                          
