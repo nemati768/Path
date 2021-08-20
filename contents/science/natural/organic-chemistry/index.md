@@ -10,3 +10,4 @@
 - [Cyclohexane chair](cyclohexane-chair)
 - [Steriochmistry - enantiomers](steriochemistry-enantiomers)
 - [Cahn-Ingold-Prelog convention](cahn-ingold-prelog-convention)
+- [Stereochemistry: Meso compounds, diastereomers](stereochemistry-meso-compounds-diastereomers)
