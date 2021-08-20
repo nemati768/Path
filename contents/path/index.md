@@ -1,52 +1,24 @@
 # Path
 
 - [Design](design)
-
-<ul>
-    <li>
-        <a href="/path/design">طراحی</a>
-    </li>
-    <li>
-        <a href="/path/death">مرگ</a>
-    </li>
-    <li>
-        <a href="/path/human-weakness">ضعف انسان</a>
-    </li>
-    <li>
-        <a href="/path/constancy">ثبات</a>
-    </li>
-    <li>
-        <a href="/path/claims-defects">نقص ادعاها</a>
-    </li>
-    <li>
-        <a href="/path/comparison">مقایسه</a>
-    </li>
-    <li>
-        <a href="/path/tahrif">تحریف</a>
-    </li>
-    <li>
-        <a href="/path/quran-and-science">قرآن و علم</a>
-    </li>
-    <li>
-        <a href="/path/muhammad">محمد</a>
-    </li>
-    <li>
-        <a href="/path/logic">منطق</a>
-    </li>
-    <li>
-        <a href="/path/do-and-donts">بکن-نکن ها</a>
-    </li>
-    <li>
-        <a href="/path/derivation">استخراج</a>
-    </li>
-</ul>
+- [Death](death)
+- [Human weakness](human-weakness)
+- [Constancy](constancy)
+- [Claim defects](claim-defects)
+- [Comparison](comparison)
+- [Tahrif](tahrif)
+- [Quran & science](quran-and-science)
+- [Muhammad](muhammad)
+- [Logic](logic)
+- [Do & don'ts](do-and-donts)
+- [Derivation](derivation)
 
 <p>
     مسیر اینجا آینده نیست. مسیر گذشته نیست. مسیر نقشه است. مسیریه که ما طی کردیم تا امروز اینجا باشیم. مسیریه که باید بعد از این طی کنیم. هر وقت دچار تردید میشیم، باید برگردیم و مسیر رو نگاه کنیم. امروز ما زمانی معنا پیدا میکنه که بدونیم از کجا، و چرا به اینجا اومدیم. اگه راهی که تا اینجا طی کردیم رو گم کنیم، امروزمون معناش رو یا از دست میده، یا کمرنگ میشه معناش و برامون گنگ و گیج کننده میشه. فردای ما زمانی معنا پیدا میکنه که بدونیم اگه باشه چرا میخوایم زندگیش کنیم؟ اگه گم کرده باشیم راهمونو، فردا برامون فقط یه زمان دیگه است، مثل همه زمان ها. بی کنترل ما میاد، و بی کنترل ما میره، بدون اینکه ازش چیزی نصیب ما شده باشه.
 
 </p>
 
-<partial name="/Views/Path/Svg.cshtml" />
+<img src="/path.svg" />
 
 <ul>
     <li>من اعتمادم به همه رو از دست دادم جایی. هیچ کسی رو منصف نیافتم که بتونم بهش اعتماد کنم و دنبالش حرکت کنم. توی ادعای همه، بی انصافی دیدم.</li>
