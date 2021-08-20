@@ -21,7 +21,7 @@ const index = ({ urlSegments, content, errorCode, type }) => {
                 :
                 <Breadcrumb urlSegments={urlSegments} />
         }
-        <div className={type + (type === 'markdown' ? ' prose pl-10' : '')} dangerouslySetInnerHTML={{ __html: content }}></div>
+        <div className={type + (type === 'markdown' ? ' prose pl-10 mb-10' : '')} dangerouslySetInnerHTML={{ __html: content }}></div>
     </>
 }
 
