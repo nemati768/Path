@@ -1,4 +1,4 @@
-# Cable & Gullet
+# Cable & Esophagus
 
 ### Cable Picture:
 
@@ -6,7 +6,7 @@
 
 <hr />
 
-### Gullet Picture:
+### Esophagus Picture:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/2402_Layers_of_the_Gastrointestinal_Tract.jpg" alt="Esophagus" />
 
@@ -18,6 +18,6 @@
 
 #### For Quick Search:
 
-- Esophagus Cross Section (For Gullet)
+- Esophagus Cross Section (For Esophagus)
 
 - Cable Cross Section (For Cable)
