@@ -10,8 +10,6 @@
 - Wind Turbine
 - Geothermal Plant
 
-***
-
 ### Outcome:
 #### Food Producer, Feed Consumer (Complete cycle)
 
