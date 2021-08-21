@@ -11,3 +11,6 @@
 - [Steriochmistry - enantiomers](steriochemistry-enantiomers)
 - [Cahn-Ingold-Prelog convention](cahn-ingold-prelog-convention)
 - [Stereochemistry: Meso compounds, diastereomers](stereochemistry-meso-compounds-diastereomers)
+- [Nucleophiles, Electrophiles, Leaving Groups, and the SN2 Reaction](nucleophiles-electrophiles-leaving-groups-sn2-reaction)
+- [SN1 reaction](sn1-reaction)
+- [E2 reaction](e2-reaction)
