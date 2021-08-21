@@ -16,7 +16,7 @@
     
 #### Point: These Fluids Are Seperate
 
-<hr />
+***
 
 | Body (Umbilical Cord) | Function         |
 |-----------------------|------------------|
