@@ -14,7 +14,10 @@
 | Water       | Glass cleaning                    |
 | Brake fluid | Hydraulic Braking Effect          |
     
-#### Point: These Fluids Are Seperate
+#### Point:
+- Separate fluids
+- separate pumping
+- separate piping
 
 ***
 
