@@ -1,21 +1,14 @@
-<h1>زیرساخت واحد برای تولید</h1>
+# Common base for production
 
-<ul>
-    <li>گل؟ از ژن.</li>
-    <li>خر؟ از ژن.</li>
-    <li>کلاغ؟ از ژن.</li>
-    <li>کرم؟ از ژن.</li>
-    <li>مگس؟ از ژن.</li>
-    <li>عنکبوت؟ از ژن.</li>
-    <li>درخت؟ از ژن.</li>
-    <li>حیات؟ از ژن.</li>
-</ul>
-<p>
-    برای اینکه ما معادلش رو داشته باشیم در دنیای مهندسی باید بتونیم این حرف رو بزنیم:
-</p>
-<ul>
-    <li>موبایل؟ از x</li>
-    <li>ماشین؟ از x</li>
-    <li>خونه؟ از x</li>
-    <li>لباسشویی؟‌از x</li>
-</ul>
+| Gene     	| Crude oil      	|
+|----------	|----------------	|
+| Flower   	| Diesel fuel    	|
+| Raven    	| Motor Oil      	|
+| Whale    	| Bearing Grease 	|
+| Fish     	| Upholstery     	|
+| Tree     	| Insecticides   	|
+| Eagle    	| Bicycle Tires  	|
+| Human    	| Nail Polish    	|
+| Pigeon 	| Paint          	|
+
+### * *POINT: Crude oil products are made in different processes and in various sectors.* *
