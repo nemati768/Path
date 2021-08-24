@@ -1,14 +1,15 @@
 # Sphincter
  
-#### Definition:
-#### A ring-shaped muscle that relaxes or tightens to open or close a passage or opening in the body.
-#### Examples:
+Definition:
+
+A ring-shaped muscle that relaxes or tightens to open or close a passage or opening in the body.
+Examples:
 - Anal Sphincter (around the opening of the anus)
 - Pyloric Sphincter (at the lower opening of the stomach).
 
 ***
 
-#### Human creature:
+Human creature:
 - Garbage bag
 - Old purse
 - Elastic waist
