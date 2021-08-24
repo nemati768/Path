@@ -1,11 +1,17 @@
-﻿<h1>هورمون و تنظیم</h1>
+# Hormone & Regulation
 
-<p>به عنوان مهندس از شما درخواست میشه وضعیت یه سیستم رو پایدار نگه دارین.</p>
+### Regulation Examples:
+- Satellites
+- Audio & Video Resolution
+- Refrigerator Temperature 
+- Pipelines Pressure
 
-<p>راه حلی که به ذهنتون میرسه چیه؟</p>
-<p>پایش و اصلاح. چیزی که به اسم رگلاژ میشناسیم.</p>
+### Concise: Monitoring & Correction
+***
 
-<p>اسپلیت دمای هوا رو پایش میکنه، وقتی دمای هوا تغییر کرد، هوایی </p>
-<p>با دمای مطلوب ترشح میکنه.</p>
-
-<p>حالا توی بدنendocrine system همین کارو میکنه.</p>
+### Human Body Regulator:
+- Endocrine System
+- Homeostasis 
+- Presynaptic Neurons
+- Membrane Phospholipids
+### Concise: Hormones

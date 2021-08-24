@@ -1,21 +1,23 @@
-<h1>زیرساخت واحد برای تولید</h1>
+# Common base for production
 
-<ul>
-    <li>گل؟ از ژن.</li>
-    <li>خر؟ از ژن.</li>
-    <li>کلاغ؟ از ژن.</li>
-    <li>کرم؟ از ژن.</li>
-    <li>مگس؟ از ژن.</li>
-    <li>عنکبوت؟ از ژن.</li>
-    <li>درخت؟ از ژن.</li>
-    <li>حیات؟ از ژن.</li>
-</ul>
-<p>
-    برای اینکه ما معادلش رو داشته باشیم در دنیای مهندسی باید بتونیم این حرف رو بزنیم:
-</p>
-<ul>
-    <li>موبایل؟ از x</li>
-    <li>ماشین؟ از x</li>
-    <li>خونه؟ از x</li>
-    <li>لباسشویی؟‌از x</li>
-</ul>
+Gene Products:
+- Flower
+- Raven
+- Whale
+- Fish
+- Tree
+- Eagle
+- Human
+- Pigeon
+
+***
+
+Human Products: (Initial resource, Different processes)
+- Diesel fuel
+- Motor Oil
+- Bearing Grease
+- Upholstery
+- Insecticides
+- Bicycle Tires
+- Nail Polish
+- Paint

@@ -1,8 +1,11 @@
-﻿<h1>هلیکاز</h1>
+# Helicase
 
-<p>شبیه به</p>
+ Definition:
+ 
+ Helicases are enzymes that bind and may even remodel nucleic acid or nucleic acid-protein complexes. 
 
-<ul>
-    <li>ماسماسک زیپ</li>
-    <li>قیچی</li>
-</ul>
+***
+
+Human Examples:
+- Zipper
+- Scissor
