@@ -1,7 +1,7 @@
 # Helicase
 
-#### Definition:
-#### Helicases are enzymes that bind and may even remodel nucleic acid or nucleic acid-protein complexes. 
+ Definition:
+ Helicases are enzymes that bind and may even remodel nucleic acid or nucleic acid-protein complexes. 
 
 ***
 
