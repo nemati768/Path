@@ -12,7 +12,7 @@ Gene Products:
 
 ***
 
-Same in Human Products:
+Human Products:
 - Diesel fuel
 - Motor Oil
 - Bearing Grease
@@ -22,5 +22,4 @@ Same in Human Products:
 - Nail Polish
 - Paint
 
-
-### * *POINT: Crude oil products are made in different processes and in various sectors.* *
+Initial resource, Different processes.
