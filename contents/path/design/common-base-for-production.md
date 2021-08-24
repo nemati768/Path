@@ -1,14 +1,26 @@
 # Common base for production
 
-| Gene     	| Crude oil      	|
-|----------	|----------------	|
-| Flower   	| Diesel fuel    	|
-| Raven    	| Motor Oil      	|
-| Whale    	| Bearing Grease 	|
-| Fish     	| Upholstery     	|
-| Tree     	| Insecticides   	|
-| Eagle    	| Bicycle Tires  	|
-| Human    	| Nail Polish    	|
-| Pigeon 	| Paint          	|
+Gene Products:
+- Flower
+- Raven
+- Whale
+- Fish
+- Tree
+- Eagle
+- Human
+- Pigeon
+
+***
+
+Same in Human Products:
+- Diesel fuel
+- Motor Oil
+- Bearing Grease
+- Upholstery
+- Insecticides
+- Bicycle Tires
+- Nail Polish
+- Paint
+
 
 ### * *POINT: Crude oil products are made in different processes and in various sectors.* *
