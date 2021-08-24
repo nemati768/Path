@@ -12,7 +12,7 @@ Gene Products:
 
 ***
 
-Human Products:
+Human Products: (Initial resource, Different processes)
 - Diesel fuel
 - Motor Oil
 - Bearing Grease
@@ -21,5 +21,3 @@ Human Products:
 - Bicycle Tires
 - Nail Polish
 - Paint
-
-Initial resource, Different processes.
