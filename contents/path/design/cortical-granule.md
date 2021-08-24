@@ -14,7 +14,7 @@ Sperm and Eggs:
 
  Sex cells:
  
- 46 Chromosomes (Diploid). gather from daddy & mommy for Spermatogenesis.
+ 46 Chromosomes (Diploid). gather from dad & momm for Spermatogenesis.
  
  Problem:
  
