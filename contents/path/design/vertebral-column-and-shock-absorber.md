@@ -11,6 +11,6 @@ F = k * DeltaX
 
 ***
 
-For more information:
+Learn more:
 
-"https://youtu.be/8hqyQIyenxA?t=224"
+(https://youtu.be/8hqyQIyenxA?t=224)
