@@ -1,6 +1,6 @@
 # Helicase
  
-| Organ / Part         | Function                                                              |
+| Organ / Device         | Function                                                              |
 |---------------|-----------------------------------------------------------------------|
 | Helicase      | Binding and remodeling nucleic acid or nucleic acid-protein complexes |
 | Zipper        | Similarity of structural creation                                     |
