@@ -1,6 +1,6 @@
 # Vertebral Column & Shock Absorber
 
-| Organ(part)            | Function     |
+| Organ / Part            | Function     |
 |------------------|--------------|
 | Vertebral Column | Absorb Shock |
 | Shock Absorber   | Absorb Shock |
