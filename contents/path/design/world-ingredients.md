@@ -2,10 +2,10 @@
 
 Wizard Chef: (Special Food)
 
-Material (Ingredients):
-- Potato
-- onion
+Cooks every food only using
 - Tomato
+- Potato
+- Onion
 
 ***
 
@@ -15,3 +15,9 @@ Material (Ingredients):
 - High quark
 - Low quark
 - Electron
+
+Example:
+
+- Stool & perfume were made of one thing.
+- Iron & cotton were made of one thing.
+- The moon & the sun and vanilla ice cream were made of one thing.
