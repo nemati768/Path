@@ -1,9 +1,11 @@
 # Vertebral Column & Shock Absorber
 
-| Organ            | Function     |
+| Organ(part)            | Function     |
 |------------------|--------------|
 | Vertebral Column | Absorb Shock |
 | Shock Absorber   | Absorb Shock |
+
+Harmonic oscillation system =» Input force =» Amount of displacement
 
 ***
 
