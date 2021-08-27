@@ -31,7 +31,8 @@
 - motion
 - emergence
 - wave function
-- 
+- Erwin Shrodinger
+- Werner Heisenberg
 
 ***
 
