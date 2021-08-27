@@ -1,26 +1,12 @@
-﻿<h1>مرگ</h1>
+# Death
+
+- [Wanting and being able to](wanting-and-being-able-to)
+- [Senescence](senesence)
+- [Ways of dying](ways-of-dying)
+- [Hundred percent phenomenon](hundred-precent-phenomenon)
 
 <ul>
-    <li>
-        <a href="/path/death/wanting-and-being-able-to">
-            خواستن و توانستن
-        </a>
-    </li>
-    <li>
-        <a href="/path/death/senescence">
-            پیری سلولی
-        </a>
-    </li>
-    <li>
-        <a href="/path/death/ways-of-dying">
-            راه های مردن
-        </a>
-    </li>
-    <li>
-        <a href="/path/death/hundred-percent-phenomenon">
-            پدیده صد درصدی
-        </a>
-    </li>
+    
     <li>
         <a href="/path/death/entropy">
             آنتروپی
