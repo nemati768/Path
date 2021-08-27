@@ -18,5 +18,6 @@ Nature:
 - Endothelial Cells =» Polishing vessels =» Endothelium
 
 ***
+Learn more:
 
-utube.com/c/MedicosisPerfectionalis" target="_blank">Medicosis Perfectionalis
+(http://utube.com/c/MedicosisPerfectionalis%20%22%20target=%22_blank%22%3EMedicosis%20Perfectionalis)
