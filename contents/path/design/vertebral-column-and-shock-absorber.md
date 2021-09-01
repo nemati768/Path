@@ -1,17 +1,18 @@
-﻿<h1>ستون فقرات و کمک فنر</h1>
+# Vertebral Column & Shock Absorber
 
-<h2>Vertebral column and shock absorber</h2>
+| Organ / Part            | Function     |
+|------------------|--------------|
+| Vertebral Column | Absorb Shock |
+| Shock Absorber   | Absorb Shock |
 
-<p>وقتی میخوای شوک رو جذب کنی، که قطعات شکننده آسیب نبینن چیکار میکنی؟</p>
-<hr />
-<p>یه سیستم harmonic oscilation میتونی طراحی کنی که نیروی وارده مستقیما مرتبطه با میزان جا به جایی</p>
-<hr />
-<p>F = k * DeltaX</p>
-<hr />
-<p>این توی shock absorber ها با فنر دیده میشه</p>
-<hr />
-<p>توی بدن با </p>
-<hr />
-<p>
-    <a href="https://youtu.be/8hqyQIyenxA?t=224">یوتوب</a>
-</p>
+Harmonic oscillation system =» Input force =» Amount of displacement
+
+***
+
+F = k * DeltaX
+
+***
+
+Learn more:
+
+(https://youtu.be/8hqyQIyenxA?t=224)
