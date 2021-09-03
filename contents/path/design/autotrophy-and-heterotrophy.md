@@ -1,24 +1,14 @@
 # Autotroph & Heterotroph
 
-### Human Creature (Power supplies Limited)
-- Lamp
-- Car
-- Cell Phone
-
-### Limited Resource Replacement Solution
-- Solar Panel
-- Wind Turbine
-- Geothermal Plant
-
-### Outcome:
-#### Food Producer, Feed Consumer (Complete cycle)
+| Human                | Nature                         |
+|----------------------|--------------------------------|
+| Lamp                 | Omnivore, carnivore, herbivore |
+| Solar panel          | Plant                          |
+| Photoelectric effect | Photosynthesis                 |
+| Battery              | Sugar, and saccharides, and glucose         |
 
 ***
 
-### Nature Examples
-- Plants absorb Organic Matters
-- Herbivore Animals eat Plants
-- Carnivore Animals eat Herbivore Animals
-
-### Outcome:
-#### Food Producer, Feed Consumer (Complete cycle)
+### Complete cycle
+- Energy producers
+- Energy consumers
