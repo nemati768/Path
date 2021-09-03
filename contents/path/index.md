@@ -4,7 +4,7 @@
 - [Death](death)
 - [Human weakness](human-weakness)
 - [Constancy](constancy)
-- [Claim defects](claim-defects)
+- [Claims' defects](claims-defects)
 - [Comparison](comparison)
 - [Tahrif](tahrif)
 - [Quran & science](quran-and-science)
