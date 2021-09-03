@@ -1,37 +1,15 @@
-﻿<h1>ثبات</h1>
+# Constancy
 
-<ul>
-    <li>
-        <a href="/path/constancy/inconstancy-examples-in-systems-with-multiple-free-will">مثال های عدم ثبات در سیستم های چنداختیاره</a>
-    </li>
-    <li>
-        <a href="/path/constancy/joe-biden-first-day">روز اول جو بایدن</a>
-    </li>
-    <li>
-        <a href="/path/constancy/quran-arguments">استدلال های قرآن</a>
-    </li>
-    <li>
-        <a href="/path/constancy/pantheon-constancy-challenge">چالش ثبات پانتئونی</a>
-    </li>
-    <li>
-        <a href="/path/constancy/immortal-and-independent">حی و قیوم</a>
-    </li>
-    <li>
-        پیوندهای شیمیایی
-    </li>
-    <li>
-        نیروهای بنیادین
-    </li>
-    <li>
-        سرعت نور
-    </li>
-    <li>
-        قانون نسبت های معین
-    </li>
-    <li>
-        قوانین کپلر
-    </li>
-</ul>
+- [Inconstancy examples in systems with multiple free will](inconstantcy-examples-in-systems-with-multiple-free-will)
+- [Joe Biden first day](joe-biden-first-day)
+- [Quran arguments](quran-arguments)
+- [Pantheon constancy challenge](pantheon-constancy-challenge)
+- [Immortal and independent](immortal-and-independent)
+- Chemical bonds
+- Fundamental interactions
+- Speed of light
+- The law of definite proportions
+- Keypler laws
 
 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">لیست ثابت های فیزیک</a>
 
