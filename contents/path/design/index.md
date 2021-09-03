@@ -1,18 +1,23 @@
 ﻿# Design
 
-| Topic | Nature | Comparison | Human | Reason | 
-|-------|--------|------------|-------|--------|
-| [Blood and car fluids](blood-and-car-fluids) | ✔️ | > | ✔️  | one fluid, multiple functions |
+| Topic | Nature | Comparison | Human | Reason | Equivalence example |
+|-------|--------|------------|-------|--------|---------------------|
+| [Blood and car fluids](blood-and-car-fluids) | ✔️ | > | ✔️  | one fluid, one pump, multiple functions | one fluid for braking, energy, windsheild, cooling, lubrication, ... taken only in gas stations |
 | [Histone](histone) | ✔️ | > | ✔️ | supercoiling |
 | [Recycling](recycling) | ✔️ | > | ✔️ | micro, in-place recyling |
 | [Coaxial cable and esophagus](coaxial-cable-and-esophagus) | ✔️ | = | ✔️ | |
 | [Heart and IC Engine](heart-and-engine) | ✔️ | = | ✔️ | |
 | [Autotrophy and heterotrophy](autotrophy-and-heterotrophy) | ✔️ | > | ✔️ | ubuquity, many-sidedness, ... |
+| [Pain and pleasure](pain-and-pleasure) | ✔️ | > | | |
+
+### Notes:
+
+- Evolution parameters:
+    - Chance
+    - Time
+    - Survival of the fittest
 
 <ul>
-    <li>
-        <a href="/path/design/pain-and-pleasure">لذت و درد</a>
-    </li>
     <li>
         <a href="/path/design/motor-neuron">نورون حرکتی</a>
     </li>
