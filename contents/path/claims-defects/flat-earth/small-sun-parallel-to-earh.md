@@ -4,3 +4,7 @@
 | airplane | appearance | path | disappearance |
 
 Are they the same to you?
+
+***
+
+How Equinox & Solstice emerge in this model?
