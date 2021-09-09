@@ -3,6 +3,8 @@
 - [Introduction](introduction)
 - [Homeostasis](homeostasis)
 - [Body control systems](body-control-systems)
+- [Human cell](human-cell)
+- [Cytoplasmic orgenelles](cytoplasmic-orgenelles)
 
 ***
 
