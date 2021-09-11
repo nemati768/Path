@@ -7,6 +7,8 @@
 - [Cytoplasmic orgenelles](cytoplasmic-orgenelles)
 - [Cytoplasmic orgenelles 2](cytoplasmic-orgenelles-2)
 - [Cell organization](cell-organization)
+- [Cell structure](cell-structure)
+- [Cytoskeleton](cytoskeleton)
 
 ***
 
