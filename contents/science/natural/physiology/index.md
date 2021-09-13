@@ -10,6 +10,7 @@
 - [Cell structure](cell-structure)
 - [Cytoskeleton](cytoskeleton)
 - [Microfilaments and microtubules](microfilaments-and-microtubules)
+- [Cell membrane](cell-membrane)
 
 ***
 
