@@ -24,7 +24,6 @@
 - ribosome
 - rRNA
 - protein synthesis
-- 
 
 ***
 
@@ -42,3 +41,4 @@
 
 ***
 
+done
