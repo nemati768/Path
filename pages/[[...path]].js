@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 import Error from 'next/error';
 import Breadcrumb from '../components/Breadcrumb';
+import { markdownClasses } from '../components/MarkdownClasses';
 const marked = require("marked");
 
 const index = ({ urlSegments, content, errorCode, type }) => {
@@ -21,7 +22,7 @@ const index = ({ urlSegments, content, errorCode, type }) => {
                 :
                 <Breadcrumb urlSegments={urlSegments} />
         }
-        <div className={type + (type === 'markdown' ? ' prose pl-10 mb-10' : '')} dangerouslySetInnerHTML={{ __html: content }}></div>
+        <div className={type + (type === 'markdown' ? markdownClasses : '')} dangerouslySetInnerHTML={{ __html: content }}></div>
     </>
 }
 
@@ -50,11 +51,12 @@ export async function getServerSideProps({ params, res }) {
             var content = fs.readFileSync(filePath, 'utf8');
             if (filePath.endsWith('.md')) {
                 type = 'markdown';
-                if (content.charCodeAt(0) == 65279) {
-                    content = content.slice(1);
-                }
-                content = marked(content);
             }
+            if (content.charCodeAt(0) == 65279) {
+                content = content.slice(1);
+            }
+            content = content.replace('markdownClasses', markdownClasses);
+            content = marked(content);
             const result = { props: { urlSegments: urlSegments, content: content, type } };
             return result;
         } catch (e) {
