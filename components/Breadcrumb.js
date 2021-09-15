@@ -6,9 +6,15 @@ const Breadcrumb = ({ urlSegments }) => {
             continue;
         }
         url = url + '/' + urlSegments[i];
+        const properUrlSegments = urlSegments[i].split('-').map(i => {
+            if (i === 'vs') {
+                return 'vs.'
+            }
+            return i.charAt(0).toUpperCase() + i.slice(1)
+        }).join(' ')
         items.push({
             url: url,
-            text: urlSegments[i].split('-').map(i => i.charAt(0).toUpperCase() + i.slice(1)).join(' ')
+            text: properUrlSegments
         })
     }
     return <div className='breadcrumb h-20 flex items-center pl-5'>

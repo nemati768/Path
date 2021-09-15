@@ -1,14 +1,14 @@
 # Path
 
-- [Design](design)
-- [Death](death)
-- [Human weakness](human-weakness)
-- [Constancy](constancy)
-- [Claims' defects](claims-defects)
-- [Comparison](comparison)
-- [Tahrif](tahrif)
-- [Quran & science](quran-and-science)
+- [Nature vs human design](nature-vs-human-design/index)
+- [Life & death](life-and-death/index)
+- [Comparison](comparison/index)
+- [Tahrif](tahrif/index)
+- [Quran & science](quran-and-science/index)
 - [Muhammad](muhammad)
+- [Human strengths & weeknesses](human-strength-and-weakness/index)
+- [Constancy](constancy/index)
+- [Claims' defects](claims-defects)
 - [Logic](logic)
 - [Do & don'ts](do-and-donts)
 - [Derivation](derivation)
@@ -25,10 +25,6 @@ And if we lose the path, we lose tomorrow too. We won't be able to find why will
 
 <ul>
     
-
-    <li>اینجا من صفر شدم. عهد کردم که از نو بسازم. مادامی که خون در رگام جریان داره و نفس میکشم، به دنبال حق میگردم.</li>
-
-    <li>راه حل، تکیه به خودمه. تفکر + مشاهده + انصاف. تنبلی جایز نیست. باید وقت گذاشت. باید انرژی گذاشت. باید دید، و برداشت کرد.</li>
 
     <li>از طراحی دنیا، از مشاهده مرگ و مقایسه تعاریف و ادعاهای مختلف درباره اون، و از نقص چارچوب های تعریفی/ادعایی دیگه در مورد دنیا، و از ضعف های خودمون من به وجود طراح (ها) پی میبرم. اما در این مرحله فقط میدونم جهان طراحی شده و در اثر شانس و تصادف ایجاد نشده.</li>
 

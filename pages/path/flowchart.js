@@ -1,10 +1,17 @@
 import Breadcrumb from "../../components/Breadcrumb";
+import { useRouter } from 'next/router'
 
 const Flowchart = () => {
 
-    const boxStyle = "px-4 py-2 flex items-center justify-center bg-green-600 rounded-md "
-    const verticalBoxStyle = " my-2 w-72"
-    const horizontalBoxStyle = " mx-2 w-30 max-w-sm"
+    const router = useRouter()
+
+    const goTo = (item) => {
+        router.push(item);
+    }
+
+    const boxStyle = "px-4 py-2 flex items-start justify-center bg-green-600 rounded-md "
+    const verticalBoxStyle = " my-2"
+    const horizontalBoxStyle = " mx-2 my-2 "
     const titleStyle = "text-lg font-bold uppercase antialiased tracking-wide text-white drop-shadow-sm "
 
     const items = [
@@ -16,15 +23,29 @@ const Flowchart = () => {
             title: "Becoming zero",
             subtitle: "I put aside all I believe. I build from the ground again. I promised myself to seek the truth, as long as I breath."
         },
-        "Observation, thought, impartiality",
+        {
+            title: "Observation, thought, impartiality",
+            subtitle: "I should spend time and energy. Laziness is no excuse for finding the truth. To gain, once must spend."
+        },
         [
-            "Nature vs human design",
-            "Life & death",
-            "Claims analysis",
-            "Human's strenghts and weaknesses"
+            {
+                title: "Nature vs human design",
+                subtitle: "I am an engineer. I will compare what I see in the nature, with what we humans have created. I make a list. Then abductively decide wheather the world is designed or not.",
+                url: "/path/design/index"
+            },
+            {
+                title: "Life & death",
+                subtitle: "I find definitions. And I learn from them."
+            }
         ],
-        "Nature > human design => nature is designed",
-        "Inductive logic => separation of design and designer(s)",
+        {
+            title: "Nature is designed",
+            subtitle: "It's my personal truth. I can't prove it to others. But I have come to the conclusion that nature is designed. Because nature has designs that are superior to intelligent human's design. Nature > human design => nature is designed."
+        },
+        {
+            title: "Separation of design and designer(s)",
+            subtitle: "It's an inductive reasoning. I can't find even one example where the desig is the designer itself. Design is not the designer."
+        },
         "Design complexity => huge power and knowledge of the designer(s)",
         "Natural laws's constancy => One will, one designer",
         "One designer + Existence of evil => evil is designed by the designer",
@@ -42,7 +63,7 @@ const Flowchart = () => {
         ""
     ];
 
-    const renderItem = (item) => <>
+    const renderItem = (item) => <div className="w-64" onClick={() => goTo(item.url)}>
         {
             item.title ?
                 <div>
@@ -50,9 +71,9 @@ const Flowchart = () => {
                     <span className="text-sm text-gray-900">{item.subtitle}</span>
                 </div>
                 :
-                <span className={titleStyle}>{item}</span>
+                <span className={titleStyle + " text-center "}>{item}</span>
         }
-    </>
+    </div>
 
     return <>
         <Breadcrumb urlSegments={['path', 'flowchart']} />
@@ -62,14 +83,14 @@ const Flowchart = () => {
                     {
                         Array.isArray(item)
                             ?
-                            <div className="flex flex-row w-full my-2 ">
+                            <div className="flex border-2 rounded-md flex-col lg:flex-row bg-gray-100">
                                 {
                                     item.map(((subItem, index) =>
-                                        <span className={boxStyle + horizontalBoxStyle} key={index}>
+                                        <div className={boxStyle + horizontalBoxStyle} key={index}>
                                             {
                                                 renderItem(subItem)
                                             }
-                                        </span>
+                                        </div>
                                     ))
                                 }
                             </div>
