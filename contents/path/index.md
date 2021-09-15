@@ -1,5 +1,3 @@
-<div class="markdownClasses">
-
 # Path
 
 - [Design](design)
@@ -22,16 +20,11 @@ Path is a map. A map that shows why we are here. A map of thoughts.
 Whenever we fall into doubts, we open this map. Current position gets its meaning from past positions. If we lose the path, we lose the meaning.
 
 And if we lose the path, we lose tomorrow too. We won't be able to find why will we live it. It comes as all other days, and it passes as all other days, and we get nothing from it. It becomes **one more lost day**.
-</div>
 
-<div class="path flex justify-center">
-    <div></div>
-</div>
-
-<img src="/path.svg" />
+[Flowchart](flowchart)
 
 <ul>
-    <li>من اعتمادم به همه رو از دست دادم جایی. هیچ کسی رو منصف نیافتم که بتونم بهش اعتماد کنم و دنبالش حرکت کنم. توی ادعای همه، بی انصافی دیدم.</li>
+    
 
     <li>اینجا من صفر شدم. عهد کردم که از نو بسازم. مادامی که خون در رگام جریان داره و نفس میکشم، به دنبال حق میگردم.</li>
 
