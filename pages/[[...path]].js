@@ -27,6 +27,7 @@ const index = ({ urlSegments, content, errorCode, type }) => {
 }
 
 export async function getServerSideProps({ params, res }) {
+    //console.time('time');
     const urlSegments = params.path || [];
     const diskSegments = [process.cwd(), 'contents'].concat(urlSegments);
     var filePath = path.join.apply(null, [...diskSegments, 'index.html']);
@@ -58,6 +59,7 @@ export async function getServerSideProps({ params, res }) {
             content = content.replace('markdownClasses', markdownClasses);
             content = marked(content);
             const result = { props: { urlSegments: urlSegments, content: content, type } };
+            //console.timeEnd('time');
             return result;
         } catch (e) {
             console.log(e);
