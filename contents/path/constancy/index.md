@@ -48,6 +48,8 @@ One designer, or a group of designers?
 - Interpretation => there is one designer
     - Inductive reasoning
     - No constancy in systems with two or more wills
-- Challenge
-    - Find a system with two or more wills, that is constant over time
-    - Find a system, even with **ONE** will, that is constant over time
+
+### Challenges
+
+- Find a system with two or more wills, that is constant over time
+- Find a system, even with **ONE** will, that is constant over time

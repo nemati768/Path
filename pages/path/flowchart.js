@@ -51,10 +51,18 @@ const Flowchart = () => {
         },
         {
             title: "Design complexity",
-            subtitle: " => huge power and knowledge of the designer(s)"
+            subtitle: "As an engineer I know that the more complex a design is, the more power and knowledge the designer has had. I know about design patterns and decision-making. Thus I know the designer(s) has/have huge power and knowledge."
         },
-        "Natural laws's constancy => One will, one designer",
-        "One designer + Existence of evil => evil is designed by the designer",
+        {
+            title: "Constancy",
+            subtitle: "I see that natural fundamental laws have worked for near 14 billion years and they are not changed. For me this means that there is only one will. Natural laws's constancy => One will, one designer.",
+            url: "/path/constancy/index"
+        },
+        {
+            title: "Designing evil",
+            subtitle: "One designer + existence of evil => evil is designed by the designer.",
+            url: "/path/evil/index"
+        },
         "Source of good and evil",
         "Knowing no more about the designer",
         [
