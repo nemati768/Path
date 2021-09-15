@@ -6,7 +6,10 @@ const Flowchart = () => {
     const router = useRouter()
 
     const goTo = (item) => {
-        router.push(item);
+        if (!item.url) {
+            return;
+        }
+        router.push(item.url);
     }
 
     const boxStyle = "px-4 py-2 flex items-start justify-center bg-green-600 rounded-md "
@@ -31,7 +34,7 @@ const Flowchart = () => {
             {
                 title: "Nature vs human design",
                 subtitle: "I am an engineer. I will compare what I see in the nature, with what we humans have created. I make a list. Then abductively decide wheather the world is designed or not.",
-                url: "/path/design/index"
+                url: "/path/nature-vs-human-design/index"
             },
             {
                 title: "Life & death",
@@ -46,7 +49,10 @@ const Flowchart = () => {
             title: "Separation of design and designer(s)",
             subtitle: "It's an inductive reasoning. I can't find even one example where the desig is the designer itself. Design is not the designer."
         },
-        "Design complexity => huge power and knowledge of the designer(s)",
+        {
+            title: "Design complexity",
+            subtitle: " => huge power and knowledge of the designer(s)"
+        },
         "Natural laws's constancy => One will, one designer",
         "One designer + Existence of evil => evil is designed by the designer",
         "Source of good and evil",
@@ -63,7 +69,7 @@ const Flowchart = () => {
         ""
     ];
 
-    const renderItem = (item) => <div className="w-64" onClick={() => goTo(item.url)}>
+    const renderItem = (item) => <div className={"w-64" + (item.url ? " cursor-pointer" : "")} onClick={() => goTo(item)}>
         {
             item.title ?
                 <div>

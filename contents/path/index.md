@@ -1,5 +1,7 @@
 # Path
 
+See the [Flowchart](flowchart)
+
 - [Nature vs human design](nature-vs-human-design/index)
 - [Life & death](life-and-death/index)
 - [Comparison](comparison/index)
@@ -21,14 +23,12 @@ Whenever we fall into doubts, we open this map. Current position gets its meanin
 
 And if we lose the path, we lose tomorrow too. We won't be able to find why will we live it. It comes as all other days, and it passes as all other days, and we get nothing from it. It becomes **one more lost day**.
 
-[Flowchart](flowchart)
 
 <ul>
     
 
     <li>از طراحی دنیا، از مشاهده مرگ و مقایسه تعاریف و ادعاهای مختلف درباره اون، و از نقص چارچوب های تعریفی/ادعایی دیگه در مورد دنیا، و از ضعف های خودمون من به وجود طراح (ها) پی میبرم. اما در این مرحله فقط میدونم جهان طراحی شده و در اثر شانس و تصادف ایجاد نشده.</li>
 
-    <li>با توجه به درک شهودی خودم اینو باور دارم که طرح از طراح جداست. طرح طراح نیست. بنابراین وجود طراح/طراحان رو جدای از کیهان میپندارم.</li>
 
     <li>از مشاهده الگوهای طراحی و تصمیم های پشت طراحی ها، و از دونستن فرمول های دنیا من به توانا و دانا بودن این طراح (ها) پی میبرم.</li>
 
