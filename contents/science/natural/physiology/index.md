@@ -17,6 +17,7 @@
 - [DNA](dna)
 - [Diffusion](diffusion)
 - [Active Transport](active-transport)
+- [Sodium Potassium Pump](sodium-potassium-pump)
 
 ***
 
