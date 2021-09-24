@@ -6,6 +6,7 @@
 - [Biochemistry](biochemistry/index)
 - [Biology](biology/index)
 - [Anatomy](anatomy/index)
+- [Physiology](physiology/index)
 - [Neurology](neurology/index)
 - [Classical physics](classical-physics/index)
 - [Modern physics](modern-physics/index)

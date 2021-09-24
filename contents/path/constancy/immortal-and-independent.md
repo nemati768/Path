@@ -1,11 +1,9 @@
-﻿<h1>حی و قیوم</h1>
+# Immortal & independent
+## الْحَيُّ الْقَيُّومُ
 
-<p>سیستم متشکل از چند موجود حی و قیوم نتیجه قطعی نداره</p>
+- System of entities, each entity
+  - Possessing life and sustenance
+  - No death, no need
+  - Creation power
 
-<p>فرض کن که حی و قیوم باشی</p>
-
-<p>یعنی حیاتت و ارتزاقت با خودته. نه کسی میتونه تو رو بکشه. نه کسی میتونه جلوی برآورده شدن نیازهاتو بگیره.</p>
-
-<p>چنین موجودی همیشه میتونه قلمروشو بزرگتر کنه.</p>
-
-<p>حالا فرض کن قدرت خلق هم داشته باشی.</p>
+This system, has no definite results.

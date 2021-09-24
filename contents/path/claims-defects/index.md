@@ -1,34 +1,16 @@
-﻿<h1>نقص ادعاها</h1>
+# Claims' defects
+
+- [Suffering as a proof of rightness](suffering-rightness)
+- Evolution
+    - [Assumptions](evolution/assumptions)
+    - [Problems](evolution/problems)
+- Science
+    - [Chance](chance)
+    - [Protein source](protein-source)
+    - [Libet experiment](libet-experiment)
+- [Flat Earth](flat-earth)
 
 <ul>
-    <li>
-        <span>تکامل</span>
-        <ul>
-            <li>
-                <a href="/path/claims-defects/evolution/assumptions">فرضیات</a>
-            </li>
-            <li>
-                <a href="/path/claims-defects/evolution/problems">مشکلات</a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <span>علم</span>
-        <ul>
-            <li>
-                <a href="/path/claims-defects/science/chance">شانس و تصادف</a>
-            </li>
-            <li>
-                <a href="/path/claims-defects/science/protein-source">منبع پروئتین</a>
-            </li>
-            <li>
-                <a href="/path/claims-defects/science/libet-experiment">آزمایش لیبت</a>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <a href="/path/claims-defects/flat-earth">زمین تخت</a>
-    </li>
     <li>
         <a href="/path/claims-defects/non-favorable-rewards">پاداش های نامطلوب</a>
     </li>

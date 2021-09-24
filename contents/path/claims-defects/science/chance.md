@@ -1,39 +1,64 @@
-﻿<h1>شانس و تصادف</h1>
+﻿# Chance, randomness, spontaneity, accident, stochasticism
 
-<p>به نام الله، رب یکتا.</p>
-<p>من هرچقدر بیشتر میخونم، بیشتر حقانیت الله برام معلوم میشه.</p>
-<p>اما نمیخوام مثل آخوندهایی باشم که بدون داشتم علم طبیعت، فقط مخالفت میکنن.</p>
-<p>من دارم مجهز میشم به علم روز دنیا، تا بتونم توضیحات خداناباوران رو متوجه بشم.</p>
-<p>اکی من اومدم تو گود.</p>
-<p>بیاین وسط، پیچیده ترین ریاضیات رو برام رو کنین. پیچیده ترین مفاهیم فیزیک رو برام رو کنین. من یا میفهمم، یا اگه نفهمم میرم میخونم که بعدش بفهمم چی میگین.</p>
-<p>اگه حق گفتین، دستام بالاست. از انصاف خارج نمیشیم.</p>
-<p>اما اگه حق نگفتین، شما بپذیرین.</p>
-<p>اولیش مفهوم کلمه تصادف در ریاضیاته.</p>
-<p>بهم ثابت کنین که "تک رخداد ربطی به اراده فراکیهانی نداره".</p>
-<hr />
-<p>فرض کن که داری توی یه مکعب زندگی میکنی.</p>
-<p>مکعب تمام دنیای توست. و تو هیچ راهی برای شناخت خارج از مکعب رو نداری.</p>
-<p>روی یکی از دیوارهای مکعب، گاهی یه نقطه نور میبینی.</p>
-<p>رخداد این نقاط فرمول مشخصی نداره. بنابراین تو بهشون میگی تصادف.</p>
-<p>تو فقط احتمالات جبری کثرت رخداد رو میتونی پیش بینی کنی.</p>
-<hr />
-<p><img src="https://i.imgur.com/RiFjiAa.jpg" alt="Chance thought experiment" /></p>
-<hr />
-<p>حالا فرض کن یه نفر پشت این مکعب وایساده، و از یه طرف مکعب که دیوارش یه ماده یک طرفه است، نور روی دیوار مقابلش میندازه.</p>
-<p>فراموش نکن که تو اون شخص رو نمیبینی. تمام دنیای تو محدوده به درون مکعب. نمیدونی بیرون مکعب چه خبره. راهی هم نداری برای شناخت دنیای خارج مکعب.</p>
-<hr />
-<p><img src="https://i.imgur.com/L06b6Pb.jpg" alt="Chance thought experiment" /></p>
-<hr />
-<p>خوب، چطوری میخوای ثابت کنی که این شخص وجود نداره؟</p>
-<hr />
-<p>توی دنیای ریاضیات، گفته میشه وقتی نتونیم برای رخداد یک واقعه فرمول قطعی پیش بینی کشف کنیم، وارد علم احتمالات میشیم. و به هر رخداد میگیم تصادف یا شانس. در نگاه ماکروسکوپی، در تعداد بالای رخدادهای هم نوع، میتونیم الگویی جبری تشکیل بدیم. اما هر رخداد رو به تنهایی نمیتونیم به صورت جبری پیش بینی کنیم.</p>
-<hr />
-<p>خوب این تعریف شماست.</p>
-<p>درسته که الگوی جبری مجموعه رخداد قابل اثبات عینیه و هر کسی میتونه آزمایش کنه.</p>
-<p>اما از کجا میدونین که هر رخداد، به تنهایی محصول یه اراده فراکیهانی نیست؟</p>
-<p>چیزی که شما بهش میگین شانس، ما بهش میگیم اراده الله.</p>
-<hr />
-<p>شما که برای اثبات قسمت عمده ای از خداناباوری خودتون به تصادف وابسته این، مثل شکل گیری اولین RNAها به صورت تصادفی از نوکلئوتیدها، یا ایجاد نقطه داغ بگ بنگ به دلیل تصادف و ناشی از عدم قطعیت هایزنبرگ در مورد زمان و انرژی، با ریاضی بهم ثابت کنین که ما میتونیم عدم وجود اون اراده فراکیهانی رو در هر رخداد ثابت کنیم.</p>
-<hr />
-<p>اگه چیزی که ما بهش میگیم رندوم و غیر جبری، در واقع نتیجه جبری جهانی دیگر بر جهان ما باشه چی؟</p>
-<p>من معتقدم که الله در طراحی جهان مسیرهایی رو غیر جبری گذاشته (از نگاه ما) که این مسیرها مثل مسیر دسترسی ادمین سیستم عمل میکنه. در مواقع لازم، از اون مسیرها برای مدیریت سیستم استفاده میکنه.</p>
+#### Requirement
+
+- Prove that *single instance/occurrence of probability event is not influenced by trans-universal will*
+   - تک رخداد احتمالی ربطی به اراده فراکیهانی نداره
+
+***
+
+### Box thought experiment
+
+- You live inside a box
+- Sometimes you see light points on any wall
+- You call it random, because:
+    - You can't formulate
+    - You can't predict
+- The only formula is, **macroscopic**
+    - In every thousand light points, all walls are involved
+    - In each million light points, all walls are involved almost equally (with less than 1% deviation)
+    - Mass occurrence
+        - Can be formulated (probability)
+        - Can be predicted
+
+![Box thought experiment](https://i.imgur.com/RiFjiAa.jpg)
+
+***
+
+- Let's imagine someone's the outside of the box
+- Of course, you can't see him
+- He casts those light points at walls
+
+![Box thought experiment](https://i.imgur.com/L06b6Pb.jpg)
+
+### Requirement
+
+- Prove this entity does not exist, mathematically
+
+### Our understanding of science
+
+- In math
+    - No formulation and no determinism = probability
+    - Single occurance
+        - Has no formula
+        - Can not be predicted
+        - Is labeled *chance* => ***This is interpretation, not fact***
+    - Massive occurances
+        - Have objective formula
+        - Can be predicted
+
+### Examples
+
+- Forming the first RNA from nucleotides => chemical chance
+- Big bang's hot, dense point => Heisenberg uncertainty principle for time and energy
+- Radioactive decay
+    - > Radioactive decay is a stochastic (i.e. random) process at the level of single atoms. According to quantum theory, it is impossible to predict when a particular atom will decay, regardless of how long the atom has existed.[2][3][4] However, for a significant number of identical atoms, the overall decay rate can be expressed as a decay constant or as half-life. [Wikipedia](https://en.wikipedia.org/wiki/Radioactive_decay)
+
+***
+
+### Interpretations
+
+- Single occurrence is a blind chance, there is no need to prove it, and Creator does not exist
+- Single occurrence is the will of a trans-universal Creator
+    - Admin access to program *Universe.exe*
+    - Affecting the program's flow, through single unformulated unpredictable occurrences.

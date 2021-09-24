@@ -1,39 +1,34 @@
 # Path
 
-- [Design](design)
-- [Death](death)
-- [Human weakness](human-weakness)
-- [Constancy](constancy)
-- [Claim defects](claim-defects)
-- [Comparison](comparison)
-- [Tahrif](tahrif)
-- [Quran & science](quran-and-science)
+See the [Flowchart](flowchart)
+
+- [Nature vs human design](nature-vs-human-design/index)
+- [Life & death](life-and-death/index)
+- [Comparison](comparison/index)
+- [Tahrif](tahrif/index)
+- [Quran & science](quran-and-science/index)
 - [Muhammad](muhammad)
+- [Human strengths & weeknesses](human-strength-and-weakness/index)
+- [Constancy](constancy/index)
+- [Claims' defects](claims-defects)
 - [Logic](logic)
 - [Do & don'ts](do-and-donts)
 - [Derivation](derivation)
 
-<p>
-    مسیر اینجا آینده نیست. مسیر گذشته نیست. مسیر نقشه است. مسیریه که ما طی کردیم تا امروز اینجا باشیم. مسیریه که باید بعد از این طی کنیم. هر وقت دچار تردید میشیم، باید برگردیم و مسیر رو نگاه کنیم. امروز ما زمانی معنا پیدا میکنه که بدونیم از کجا، و چرا به اینجا اومدیم. اگه راهی که تا اینجا طی کردیم رو گم کنیم، امروزمون معناش رو یا از دست میده، یا کمرنگ میشه معناش و برامون گنگ و گیج کننده میشه. فردای ما زمانی معنا پیدا میکنه که بدونیم اگه باشه چرا میخوایم زندگیش کنیم؟ اگه گم کرده باشیم راهمونو، فردا برامون فقط یه زمان دیگه است، مثل همه زمان ها. بی کنترل ما میاد، و بی کنترل ما میره، بدون اینکه ازش چیزی نصیب ما شده باشه.
+Path is not about past or future. It's not about time.
 
-</p>
+Path is a map. A map that shows why we are here. A map of thoughts.
 
-<img src="/path.svg" />
+Whenever we fall into doubts, we open this map. Current position gets its meaning from past positions. If we lose the path, we lose the meaning.
+
+And if we lose the path, we lose tomorrow too. We won't be able to find why will we live it. It comes as all other days, and it passes as all other days, and we get nothing from it. It becomes **one more lost day**.
+
 
 <ul>
-    <li>من اعتمادم به همه رو از دست دادم جایی. هیچ کسی رو منصف نیافتم که بتونم بهش اعتماد کنم و دنبالش حرکت کنم. توی ادعای همه، بی انصافی دیدم.</li>
-
-    <li>اینجا من صفر شدم. عهد کردم که از نو بسازم. مادامی که خون در رگام جریان داره و نفس میکشم، به دنبال حق میگردم.</li>
-
-    <li>راه حل، تکیه به خودمه. تفکر + مشاهده + انصاف. تنبلی جایز نیست. باید وقت گذاشت. باید انرژی گذاشت. باید دید، و برداشت کرد.</li>
+    
 
     <li>از طراحی دنیا، از مشاهده مرگ و مقایسه تعاریف و ادعاهای مختلف درباره اون، و از نقص چارچوب های تعریفی/ادعایی دیگه در مورد دنیا، و از ضعف های خودمون من به وجود طراح (ها) پی میبرم. اما در این مرحله فقط میدونم جهان طراحی شده و در اثر شانس و تصادف ایجاد نشده.</li>
 
-    <li>با توجه به درک شهودی خودم اینو باور دارم که طرح از طراح جداست. طرح طراح نیست. بنابراین وجود طراح/طراحان رو جدای از کیهان میپندارم.</li>
-
-    <li>از مشاهده الگوهای طراحی و تصمیم های پشت طراحی ها، و از دونستن فرمول های دنیا من به توانا و دانا بودن این طراح (ها) پی میبرم.</li>
-
-    <li>از دیدن ثبات دنیا، که توش در حدود 14 میلیارد ساله که قوانین بنیادی کیهان ثابت هستن، من به وحدانیت این خالق پی میبرم. به این دلیل که دو مرکز اختیار و یا بیشتر، نمیتونن در طول زمان ثبات رو تضمین کنن. کجا دیدین که دو مرکز اختیار در طول زمان در یک ثبات اراده قرار داشته باشن؟</li>
 
     <li>اما شر در جهان وجود داره. چه شر اخلاقی که ما انسان ها عامدانه رقم میزنیم، چه شر طبیعی مثل انواع حوادث طبیعی. و چون طراح یکتاست، پس باید سرمنشا خیر و شر باشه.</li>
 
