@@ -30,6 +30,31 @@
 - voltage gated channel
 - cAMP
 - specificity
+- glucose transporter
+- vesicular transport
+- primary active transport
+- secondary active transport
+- endocytosis
+- exocytosis
+- uniport
+- symport
+- antiport
+- sodium-potasium pump
+- hydrogen ATPase
+- calcium ATPase
+- hydrogen-potassium ATPase
+- proton pump
+- proton pump inhibitor
+- mitochondrial calcium uniporter
+- sodium-glucose transport proteins
+- sodium-calcium exchanger
+- cardiac myocyte
+- enzyme
+- endocrinology
+- hydcrochloric acid
+- alkaline tide
+- electrochemical gradient
+- electrolyte
 - 
 
 ---
@@ -41,6 +66,11 @@
 - potassium ion = K+
 - sodium => more in ECF
 - potassium => more in ICF
+- ATP => ADP + P + energy
+- Anything starting with P is more in ICF
+    - Protein
+    - Potassium
+    - Phosphate
 
 ---
 
@@ -48,3 +78,4 @@
 
 ---
 
+5:30
