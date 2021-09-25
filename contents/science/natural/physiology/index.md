@@ -19,6 +19,9 @@
 - [Active Transport](active-transport)
 - [Sodium Potassium Pump](sodium-potassium-pump)
 - [Osmosis](osmosis)
+- [Osmotic Pressure](osmotic-pressure)
+- [Osmolality, Osmolarity, Tonicity](osmolality-osmolarity-tonicity)
+- [Cell membrane proteins' functions](cell-membrane-proteins-functions)
 
 ***
 
