@@ -1,6 +1,8 @@
-name: Build & Push Docker Image
+name: Build & push Docker image
 
-on:    
+on:
+  schedule:
+    - cron:  '30 7 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,20 +15,20 @@ jobs:
           sudo chmod -R 777 /HolismHolding
           cd /HolismHolding
           git clone https://github.com/HolismHolding/Infra
-          
+
       - name: Get Sultanimmubin/Path using actions/checkout@v2
         uses: actions/checkout@v2
         with:
           repository: Sultanimmubin/Path
           token: ${{ github.token }}
           path: Sultanimmubin/Path
-        
+
       - name: Copy Sultanimmubin/Path to root
         run: |
           sudo mkdir /Sultanimmubin
           sudo chmod -R 777 /Sultanimmubin
           cp -r $GITHUB_WORKSPACE/Sultanimmubin/Path /Sultanimmubin/Path
-      
+
       - name: Build production docker
         run: |
           cd /Sultanimmubin/Path

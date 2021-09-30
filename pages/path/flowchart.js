@@ -1,7 +1,10 @@
+import React, { useState } from 'react';
 import Breadcrumb from "../../components/Breadcrumb";
 import { useRouter } from 'next/router'
 
 const Flowchart = () => {
+
+    const [showDetails, setShowDetails] = useState(true);
 
     const router = useRouter()
 
@@ -63,18 +66,88 @@ const Flowchart = () => {
             subtitle: "One designer + existence of evil => evil is designed by the designer.",
             url: "/path/evil/index"
         },
-        "Source of good and evil",
-        "Knowing no more about the designer",
+        {
+            title: "Source of good and evil",
+            subtitle: "Natural evil + man's evil (moral evil) (intentional) + satan's evil are all designed by The Designer."
+        },
+        {
+            title: "Knowing no more about the designer",
+            subtitle: "What should I do next?"
+        },
         [
-            "Leave at this point",
-            "Search for the designer => abductive reasoning"
+            {
+                title: "Leave at this point",
+                subtitle: "Though a lot of questions are unanswered. Though this science bred nescensnce."
+            },
+            {
+                title: "Search for the designer => abductive reasoning => My choice",
+                subtitle: "I started the path, to find the truth. The same intention still holds for continuation."
+            }
+
         ],
+        {
+            title: "The Designer I know",
+            subtitle: "Omnipotent, Omniscient, single, separate from the design, source of good and evil. Even if everything perish, I know him. Not from parents, not from books, not from friends or media, but from my own rational and personal truth."
+        },
         [
             "Deism (designer has abandoned the design) => a possibility",
             "Claim of contacting the designer => I know it's not the case",
-            "Asking others => abductive reasoning"
+            "Asking others => abductive reasoning => My choice"
         ],
-        ""
+        [
+            {
+                title: "Where to search?",
+                subtitle: "All claims."
+            },
+            {
+                title: "What to search?",
+                subtitle: "The Designer. Omnipotent, omniscient, single, separate from the design, source of good and evil."
+            }
+        ],
+        [
+            {
+                title: "Man-made cults and claims",
+                subtitle: "No claim about the designer I know, thus all fail in my personal truth."
+            },
+            {
+                title: "Religions and deity comparisons",
+                subtitle: "Just tell me about your deities. Not about any detail other than the deities. I'm searching for The Designer."
+            }
+        ],
+        {
+            title: "Allah",
+            subtitle: "Almost the only match"
+        },
+        [
+            {
+                title: "Allah",
+                subtitle: "Who is he? What does he? Why and how?"
+            },
+            {
+                title: "Quran",
+                subtitle: "Is the Quran tampered?"
+            },
+            {
+                title: "Muhammad",
+                subtitle: "Has Muhammad authored the Quran himself?"
+            }
+        ],
+        {
+            title: "Old codexis",
+            subtitle: "Abductive reasoning => at least most of the Quran is not tampered with. At least The Designer makes sense."
+        },
+        {
+            title: "High compatibility with science",
+            subtitle: "Far from chance, not the authorship of Muhammad"
+        },
+        {
+            title: "I found it",
+            subtitle: "I see and know by heart that there is no God, but Allah (Al + Ilah => The God). He is. And none is but him. If is, is by his will. And If he wills, won't be. Muhammad is his messenger. And Quran is his authorship."
+        },
+        {
+            title: "Derivation",
+            subtitle: "I derive my living till death from the Quran."
+        }
     ];
 
     const renderItem = (item) => <div className={"w-64" + (item.url ? " cursor-pointer" : "")} onClick={() => goTo(item)}>
@@ -82,7 +155,13 @@ const Flowchart = () => {
             item.title ?
                 <div>
                     <div className={titleStyle + " mb-2"}>{item.title}</div>
-                    <span className="text-sm text-gray-900">{item.subtitle}</span>
+                    {
+                        showDetails
+                            ?
+                            <span className="text-sm text-gray-900">{item.subtitle}</span>
+                            :
+                            null
+                    }
                 </div>
                 :
                 <span className={titleStyle + " text-center "}>{item}</span>
@@ -91,6 +170,18 @@ const Flowchart = () => {
 
     return <>
         <Breadcrumb urlSegments={['path', 'flowchart']} />
+        <div
+            onClick={() => setShowDetails(!showDetails)}
+            className="fixed top-0 right-5 h-20 flex items-center cursor-pointer hover:text-red-400"
+        >
+            {
+                showDetails
+                    ?
+                    "Collapse"
+                    :
+                    "Expand"
+            }
+        </div>
         <div className="flex items-center justify-center flex-col">
             {
                 items.map((item, index) => <div key={index}>

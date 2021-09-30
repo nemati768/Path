@@ -4,8 +4,7 @@ Compare human production scale (cell phones per year, smaller than that, batteri
 
 Nature wins.
 
-***
+---
 
-<p>
-    تو روابط انسانی بارها دچار سوء تفاهم میشیم. سوء تفاهم هایی که حتی فرصت اصلاح هم پیدا نمیکنن. اما ارتباط ما با معبود، هیچ وقت با سوء تفاهم مواجه نمیشه.
-</p>
+There are a lot of misunderstanding in man-to-man communication. And the reason is that we don't know everything about the other party. We don't know the intention.
+Yet there is no misunderstanding when it comes to communicating with the God. Because he knows everything, even intentions, and even things that we don't know about outselves.
