@@ -98,6 +98,14 @@ And if we lose the path, we lose tomorrow too. We won't be able to find why will
     <li>
         اگه اهورا مزدا انتخاب میشد، کتاب اوستا مطالعه میشد و زبان اوستایی رو یاد میگرفتم.
     </li>
+    confucionism => old chineese
+    ---
+    utter a sample sentence from each
+    ---
+    emphasize and encourage access to source as much as possible
+    ---
+    confess your question about "why a forced old language?" amd confess not knowing the answer
+    ---
 </ul>
 <p>
     اصولا منظور اینه که انتخاب الله بر اساس پیشینه من صورت نگرفته. صرفا بر اساس قیاس خصوصیات معرفی شده از او، و سبک سنگین کردن و تفکر در خصوصیات صورت گرفته. و مابقی خدایان مشکلاتی داشتن که من نتونستم به عنوان خالق اونها رو بپذیرم. شاید اون مشکلات ناشی از تحریف ها باشه. شاید واقعا در اصل دینشون باشه. به هر حال امروز که من دنبال اون خصوصیات بودم، با عقل و دلم جور نبودن.
