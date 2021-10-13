@@ -98,6 +98,9 @@ And if we lose the path, we lose tomorrow too. We won't be able to find why will
     <li>
         اگه اهورا مزدا انتخاب میشد، کتاب اوستا مطالعه میشد و زبان اوستایی رو یاد میگرفتم.
     </li>
+اگه بودایی بود، زبان پالی
+
+
     confucionism => old chineese
     ---
     utter a sample sentence from each
