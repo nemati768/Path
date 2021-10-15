@@ -1,0 +1,3 @@
+- Monotheism or polytheism
+ - Monethism in the Quran
+ - [Polytheism in the Avesta](https://www.researchgate.net/publication/332570001_O_Wise_One_and_You_Other_Ahuras_The_Flawed_Application_of_Monotheism_Towards_Zoroastrianism)
