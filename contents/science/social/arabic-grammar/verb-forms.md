@@ -1,25 +1,18 @@
-﻿<h1>باب ها</h1>
+# Verb forms, families, ابواب
 
-<ul>
-    <li>نام باب (family) مصدریه</li>
-    <li>خصوصیات افعال ثلاثی یا رباعی مجرد و مزید همیشه صادق نیستن</li>
-    <li>ثلاثی یعنی ریشه فعل سه حرف داره. مثل "ع ل م"</li>
-    <li>رباعی یعنی ریشه فعل چهار حرف داره. مثل "وسوس"</li>
-    <li>ثلاثی مجرد، یعنی فقط همین سه حرف فعل در صرف استفاده شدن</li>
-    <li>ثلاثی مزید یعنی حرف اضافه در صرف به کار برده شده</li>
-    <li>رباعی مجرد یعنی فقط چهار حرف فعل استفاده شدن</li>
-    <li>رباعی مزید یعنی حرف اضافه در صرف به کار برده شده</li>
-</ul>
+- Name of the family = infinitive
+- General attributes of each family are not always applicable.
+- Thulathi = root has 3 letters
+- Ruba'i = root has 4 letters
+- Mujarrad = only root letters
+- Mazeed = more letters other than root letters
 
-<hr />
+---
 
-<h2>بابت تَفعیل (II)</h2>
+### تَفعیل (II)
 
-<ul>
-    <li>
-        فَعَّلَ
-    </li>
-    <li>یَفَعِّلُ</li>
+- فَعَّلَ
+- یَفَعِّلُ
     <li>تَفعیلاً</li>
     <li>
         (فهو) مُفَعِّلٌ
