@@ -110,6 +110,29 @@
             <td>مُفَعَّلٌ</td>
             <td></td>
         </tr>
+        <tr>
+            <td rowspan=3>
+                اِفْعالْ
+                <br/>
+                IV
+            </td>
+            <td>اَفْعَلَ</td>
+            <td>یُفْعِلُ</td>
+            <td>اِفْعالاً</td>
+            <td>مُفْعَلٌ</td>
+        </tr>
+        <tr>
+            <td>اُفْعِلَ</td>
+            <td>یُفْعَلُ</td>
+            <td>اِفْعالاً</td>
+            <td>مُفْعَلٌ</td>
+        </tr>
+        <tr>
+            <td>اَفْعِلْ</td>
+            <td>لا تُفْعِلْ</td>
+            <td>مُفْعَلٌ</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -117,28 +140,27 @@
 
 ### تَفعیل (II)
 
-- معمولا متعدی (مفعول لازم دارن)، با شدت، با تکرار، و جبرآور
-- قَتَلَ = کشت => قَتَّلَ = قتل عام کرد. به طرز فجیعی کشت. بارها کشت.
-- کَتَبَ = نوشت => کَتَّبَ = مجبور کرد که بنویسد.
+- Usually
+  - Transitive (requiring object)
+  - Intensive
+  - Repetitive
+  - Causative
+  - Denominative
+- قَتَلَ = killed. قَتَّلَ = killed with force, killed many people (massacre), killed many times, killed THEM
+- کَتَبَ = wrote. کَتَّبَ = forced to write
 
 ---
 
 ### اِفْعالْ (IV)
 
-- اَفْعَلَ
-- یُفْعِلُ
-- اِفْعالاً
-- (فهو) مُفْعِلٌ
-- اُفْعِلَ
-- یُفْعَلُ
-- اِفْعالاً
-- (فهو) مُفْعَلٌ
-- (الامر منه) اَفْعِلْ
-- (و النهی عنه) لا تُفْعِلْ
-- (و الظرف منه) مُفْعَلٌ
-  - معمولا متعدی، وادارکننده، بی شدت، یک بار و کامل (transitive && causative, not intensive)
-  - دَخَلَ = وارد شد، اَدْخَلَ = وارد کرد
-  - نَزَلَ = پایین آمد، اَنْزَلَ = پایین فرستاد (یک بار و کامل)
+- Usually
+    - Transitive
+    - Causative
+    - Once
+    - Complete
+    - Not intensive
+- دَخَلَ = came into. اَدْخَلَ = brought into
+- نَزَلَ = came down. اَنْزَلَ = sent down (once)
 
 ---
 
