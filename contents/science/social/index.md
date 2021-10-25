@@ -1,3 +1,3 @@
-﻿<h1>علوم اجتماعی</h1>
+﻿# Social sicences
 
-<partial name="/Views/SocialSciences/Menu.cshtml" />
+- [Arabic grammar](arabic-grammar/index)
