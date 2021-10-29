@@ -9,6 +9,7 @@
 | [Heart and IC Engine](heart-and-engine) | ✔️ | = | ✔️ | |
 | [Autotrophy and heterotrophy](autotrophy-and-heterotrophy) | ✔️ | > | ✔️ | ubuquity, many-sidedness, ... |
 | [Pain and pleasure](pain-and-pleasure) | ✔️ | > | | |
+| [Active site and fixture](active-site-fixture)| ✔️ |  | ✔️ | Hold workpeice tight to act upon |
 | [Motor neuron](motor-neuron)| | | | |
 | [Cortical granule](cortical-granule)|||||
 | [Thermoregulation](thermoregulation)|||||
@@ -39,4 +40,5 @@
 
 [comment]: <> (
     meutor neuron done
+    skull done
 )
