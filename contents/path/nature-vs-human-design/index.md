@@ -21,7 +21,6 @@
 | [Vertebral column and shock absorber](vertebral-column-and-chock-absorber)|||||
 | [Articular processes](articular-processes)|||||
 | [Skull and computer case](skull-computer-case)|||||
-| [Foramen size](foramen-size)|||||
 | [Spinal column and flexible rod](spinal-column-and-flexible-rod)|||||
 | [Preganglionic and postganglionic nerve lengths](https://youtu.be/hjuF_VbIj9I?t=590)||||| [Hormone and regulation](hormone-and-regulation)|||||
 | [Sphincter](sphincter)|||||
