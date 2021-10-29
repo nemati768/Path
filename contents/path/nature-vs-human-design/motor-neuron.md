@@ -1,44 +1,16 @@
 # Motor Neurons
 
+- We use wires
+- Intelligent human chooses better wires for more important places
+    - More important means
+        - Higher speed
+        - More endurance
+        - ...
+- In nature, better nerves are used for more important places
+    - Motor neurons (faster)
 
-| Wiring Examples                             |
-|---------------------------------------------|
-| Satellite Installation                      |
-| Set up the refrigerator and washing machine |
-| Car                                         |
-| Laptop & Cell Phone                         |
+### Links
 
-
-| Types of Wires       |                          |
-|----------------------|--------------------------|
-| Expensive            | Cheap                    |
-| Durable & Insulation | Low Quality              |
-| For High places      | For More Ordinary Places |
-
-
-<hr />
-
-| Veins & Vessels | Nerves       |
-|-----------------|--------------|
-| Leg veins       | Vagal Escape |
-| Abdominal veins | Ocular nerve |
-| Lumber Veins    | Wrist nerve  |
-
-
-| Electromyography Made of                     |
-|----------------------------------------------|
-| Group A Nerve Fibers                         |
-| Large Diameter                               |
-| Myelin Sheath                                |
-| Higher Speed in Transmitting Neural Messages |
-
-
-<hr />
-
-<p>For Quick Search:</p>
-
-- Axon</p>
-
-- Nerve fibers</p>
-
-- Group A nerve fibers</p>
+- [Nerve conduction velocity](https://en.wikipedia.org/wiki/Nerve_conduction_velocity)
+- [Alpha motor neuron](https://en.wikipedia.org/wiki/Alpha_motor_neuron)
+- [Group A nerve fibers](https://en.wikipedia.org/wiki/Group_A_nerve_fiber)
