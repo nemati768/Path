@@ -80,6 +80,10 @@ const Flowchart = () => {
                 subtitle: "Though a lot of questions are unanswered. Though this science bred nescensnce."
             },
             {
+                title: "Assume more using rationalistic approach",
+                subtitle: "For example, since the designer is strong and capable, thus he must have muscles, or big hands. I thought, but I found nothing."
+            },
+            {
                 title: "Search for the designer => abductive reasoning => My choice",
                 subtitle: "I started the path, to find the truth. The same intention still holds for continuation."
             }
