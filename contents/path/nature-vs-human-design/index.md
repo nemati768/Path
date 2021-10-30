@@ -7,7 +7,7 @@
 | [Recycling](recycling) | ✔️ | > | ✔️ | micro, in-place recyling |
 | [Coaxial cable and esophagus](coaxial-cable-and-esophagus) | ✔️ | = | ✔️ | |
 | [Heart and IC Engine](heart-and-engine) | ✔️ | = | ✔️ | |
-| [Autotrophy and heterotrophy](autotrophy-and-heterotrophy) | ✔️ | > | ✔️ | ubuquity, many-sidedness, ... |
+| [Autotrophy and heterotrophy](autotrophy-and-heterotrophy) | ✔️ | > | ✔️ | ubiquity, many-sidedness, ... |
 | [Pain and pleasure](pain-and-pleasure) | ✔️ | > | | |
 | [Active site and fixture](active-site-fixture)| ✔️ |  | ✔️ | Hold workpeice tight to act upon |
 | [Motor neuron](motor-neuron)| | | | |
