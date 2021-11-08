@@ -90,3 +90,4 @@
   - Connections
   - ...
 - No solid judgement for thefts
+- Promoting ideas that contradict the Quran, while claiming this book
