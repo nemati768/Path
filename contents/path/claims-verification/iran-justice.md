@@ -79,3 +79,15 @@
 <p>
     اینها قسمتی از بی عدالتی هایی هستن که من شخصا به عنوان شخص حقیقی، یا حقوقی تو این کشور دیدم.
 </p>
+
+---
+
+### Public reasons
+
+- No martyt from the children (sons) of the government members
+  - While Ali + Hasan + Hussein all became martyr
+- Huge injustice, such thag almost everyone know it and is a witness
+  - Connections
+  - ...
+- No solid judgement for thefts
+- Promoting ideas that contradict the Quran, while claiming this book

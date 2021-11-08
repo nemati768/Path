@@ -14,3 +14,12 @@
 - Why only specific places have holes?
 - Why holes match need in size?
 - Chance (probability) does not match specific places for holes, and specific sizes.
+
+---
+
+### Any specialized box
+
+- Modem
+- Air conditioner
+- Microwave
+- ...
