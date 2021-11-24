@@ -13,3 +13,12 @@
     - Reviewing
     - New card position
     - Select *New cards before reviews*
+  - Pace
+    - Long tap default deck
+    - Options
+    - New cards
+    - Set *New cards/day* to 5
+    - Go back
+    - Reviews
+    - Set *Maximum reviews/day* to 25
+  - Only have one default deck. **DO NOT ADD ANOTHER DECK.**
