@@ -8,3 +8,6 @@
 ### One is not born woman, but becomes woman
 
 This sentence is wrong. One is born with either XX, or XY chromosomes. Thus one IS BORN that way.
+
+
+[Source](https://en.wikipedia.org/wiki/The_Second_Sex)
