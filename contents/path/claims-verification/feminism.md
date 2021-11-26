@@ -7,4 +7,4 @@
 
 ### One is not born woman, but becomes woman
 
-One is born with either XX, or XY chromosomes. Thus one IS BORN that way.
+This sentence is wrong. One is born with either XX, or XY chromosomes. Thus one IS BORN that way.
