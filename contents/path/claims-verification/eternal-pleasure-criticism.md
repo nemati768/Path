@@ -1,6 +1,3 @@
-﻿
-<h1>نقد جاودانگی لذت</h1>
+# Eternal pleasure criticism
 
-<p>
-    اگه بشر از خُلد و جاودانگی لذت در بهشت بیزاره، پس چرا تو دنیا دنبال جاودانگی میگرده؟ چرا از مرگ فرار میکنه؟
-</p>
+Those who claim that eternal pleasure gets boring and is bad, why search for it in this world? Why do they flee from death?
