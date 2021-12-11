@@ -1,17 +1,23 @@
-# stop codon
+# Stop codon
 
 
-### process termination
+### Process termination types
 
-- resource Exhaustion 
+- Resource Exhaustion 
+  - Fire
+  - Gravity and falling (space exhaustion = impact)
+  - ...
  
-- Decision
-
-   - Direct decision
-  
-   - Designed theme to terminate
+- Decision (design)
+   - Direct decision (command)
+     - Granma weaving cloth for grandchild, constantly measuring to see where to stop
+     - Cutting disposable plastic sheet (tablecloth)
+   - Automatic mechanism
+     - Food packaging industry
+     - Beverage industry
+     - ...
     
-***
+---
 
 ### Protein Synthesis in Prokaryotes 
  
@@ -28,5 +34,4 @@
 - Three initiation factors: IF1, IF2 and IF3
 - Shut-off by dimerization of ribosomes in nongrowing cells
 
-***
       
