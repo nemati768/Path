@@ -11,3 +11,5 @@
 
 
 ## My analysis: NO
+
+## [30:41](https://quran.com/30/41)
