@@ -11,17 +11,17 @@
 - [Tahrif](tahrif/index)
 - [Quran & science](quran-and-science/index)
 - [Muhammad](muhammad)
-- [Logic](logic)
-- [Derivation](derivation)
+- [Logic](logic/index)
+- [Derivation](derivation/index)
 
 ### Other topics
 
-- [Behaviors' verification](behaviors-verification)
-- [Claims' verification](claims-verification)
-- [Verification techniques](verification-techniques)
+- [Behaviors' verification](behaviors-verification/index)
+- [Claims' verification](claims-verification/index)
+- [Verification techniques](verification-techniques/index)
 - [Human strengths & weeknesses](human-strength-and-weakness/index)
-- [Evil](evil)
-- [Logic](logic)
+- [Evil](evil/index)
+- [Logic](logic/index)
 - [History](history/index)
 
 Path is not about past or future. It's not about time.
