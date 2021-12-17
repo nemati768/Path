@@ -22,3 +22,7 @@
 ### Conclusion
 
 This is a lie. If you knew how to prevent aging, at least you had to prevent your own aging.
+
+### Abuse possibility
+
+His net worth at the time of writing this, was around $150 million.
