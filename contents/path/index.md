@@ -22,6 +22,7 @@
 - [Human strengths & weeknesses](human-strength-and-weakness/index)
 - [Evil](evil)
 - [Logic](logic)
+- [History](history/index)
 
 Path is not about past or future. It's not about time.
 
