@@ -8,7 +8,7 @@
     <li>Raise your wrist, don’t let them touch the desk</li>
     <li>Each finger supports a backslash (\) on keyboard</li>
     <li>Home keys are F for left hand, and J for right hand</li>
-    <li>Source, keyboard, monitor. Never look at the keyboard or monitor. Just look at the source.</li>
+    <li>Source, keyboard, monitor. Never look at the keyboard or monitor. Just look at the source. If no source exists, source is your mind. You should be able to type with closed eyes.</li>
     <li>Corrections come after type, not during type.</li>
     <li>Opposite hand presses the Shift key for capital letters, or whenever required.</li>
 </ul>
