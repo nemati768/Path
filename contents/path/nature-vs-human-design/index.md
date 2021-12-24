@@ -10,6 +10,7 @@
 | [Autotrophy and heterotrophy](autotrophy-and-heterotrophy) | ✔️ | > | ✔️ | ubiquity, many-sidedness, ... |
 | [Pain and pleasure](pain-and-pleasure) | ✔️ | > | | |
 | [Active site and fixture](active-site-fixture)| ✔️ |  | ✔️ | Hold workpeice tight to act upon |
+| [Gas station distribution](gas-station-distribution)| ✔️ | > | ✔️ | Extreme distribution | To have fuel everywhere, to be able to charge electrical devices everywhere|
 | [Motor neuron](motor-neuron)| | | | |
 | [Cortical granule](cortical-granule)|||||
 | [Thermoregulation](thermoregulation)|||||
