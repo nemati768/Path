@@ -2,6 +2,10 @@
 
 [Flowchart of finding the truth](flowchart)
 
+### Pillars
+- World is deisgned
+- Designer is one
+
 ### Main topics
 
 - [Nature vs human design](nature-vs-human-design/index)
