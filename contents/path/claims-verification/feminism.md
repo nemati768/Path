@@ -11,3 +11,11 @@ This sentence is wrong. One is born with either XX, or XY chromosomes. Thus one 
 
 
 [Source](https://en.wikipedia.org/wiki/The_Second_Sex)
+
+### Why should a woman cook?
+
+One who asks this, should first answer this question:   
+
+Why should a man work and provide?
+
+If it's accepted that a father is not responsible for provision, then it can be accepted that a mother is not responsible for cooking.
