@@ -8,9 +8,7 @@
 ***
 
 ## Learning
-- [Philosophy](philosophy)
-- [Methodology](methodology)
-- [Techniques](techniques)
+- [Learning](/learning)
 - [Anki](anki)
 
 ## Tools
