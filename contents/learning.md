@@ -10,6 +10,7 @@
 - Flaschards
 - Spacing effect
 - Reductionism
+- Progression over perfection
 
 ### Personal
 - Scattered (mine)
