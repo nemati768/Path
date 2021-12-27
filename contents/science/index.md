@@ -7,6 +7,12 @@
 
 ***
 
+## Learning
+- [Philosophy](philosophy)
+- [Methodology](methodology)
+- [Techniques](techniques)
+- [Anki](anki)
+
 ## Tools
 
 - [Latex to image](https://latex.codecogs.com/)
