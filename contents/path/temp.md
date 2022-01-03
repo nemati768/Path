@@ -1,4 +1,8 @@
-﻿# Temp thoughts
+# Temp thoughts
+
+Imam, can be seen in many religions and sects. Sikh gurus, Shia imams, Christ disicples, ...
+
+---
 
 Muhammad knew very little about the power, glory, hugeness, and energy in the skies. Then why the adverb *bi-aydin* is used in 51:47?
 
