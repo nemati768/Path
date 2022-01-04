@@ -1,5 +1,11 @@
 # Temp thoughts
 
+Compare:
+- [Dezashib](https://www.google.com/maps/@35.8064606,51.4516351,15z)
+- [Vancouver](https://www.google.com/maps/place/Vancouver,+BC,+Canada/@49.2350143,-123.1144697,13z/data=!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375)
+
+---
+
 Imam, can be seen in many religions and sects. Sikh gurus, Shia imams, Christ disicples, ...
 
 ---
