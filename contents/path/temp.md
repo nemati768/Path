@@ -1,5 +1,14 @@
 # Temp thoughts
 
+Though experiment:
+
+Ask two persons, to describe a house. In detail. List of rooms, dimensions of each place, where are the stuff located, the color of stuff, etc.   
+Then compare them. Find similarities.   
+Show how chance can't create high amount of similarities.   
+Then compare these two lists, to gene mappings of human and chimpanzis and retroviruses and how that means a solid proof that we are from the same ancestor.
+
+---
+
 Compare:
 - [Dezashib](https://www.google.com/maps/@35.8064606,51.4516351,15z)
 - [Vancouver](https://www.google.com/maps/place/Vancouver,+BC,+Canada/@49.2350143,-123.1144697,13z/data=!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375)
