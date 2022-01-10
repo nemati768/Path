@@ -1,16 +1,20 @@
-﻿<h1>تلفظ غلط</h1>
+# Mispronunciation
 
-<ul>
-    <li>آموزشت بدم، آمیزشت بدم</li>
-    <li>Heart, Hurt</li>
-    <li>Height, Hate</li>
-    <li>کار، کور، کَر، کُر، ...</li>
-    <li>کَس، ...</li>
-    <li>bitch & beach</li>
-    <li>shit & sheet</li>
-    <li>ship & sheep</li>
-    <li>dad & dead</li>
-    <li>bear & beer</li>
-    <li>taste & test</li>
-    <li>crab & crap</li>
-</ul>
+### As long acceptible, to not cause misunderstanding
+
+- شیر، شور، شار، شُر، شَر
+- کار، کور، کَر، کُر، کیر
+- تَر، تار، تور، تیر، تِر
+- نَر، نور
+- خَر، خار، خوار، خور، خِر
+- آموزشت بدم، آمیزشت بدم
+- Heart, Hurt
+- Height, Hate
+- کَس، ...
+- bitch & beach
+- shit & sheet
+- ship & sheep
+- dad & dead
+- bear & beer
+- taste & test
+- crab & crap
