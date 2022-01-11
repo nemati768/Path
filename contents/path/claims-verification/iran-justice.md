@@ -91,3 +91,5 @@
   - ...
 - No solid judgement for thefts
 - Promoting ideas that contradict the Quran, while claiming this book
+- Assignment of non-professionals to senior and key positions
+    - 
