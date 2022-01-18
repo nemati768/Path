@@ -6,7 +6,7 @@
 | Energy                 | Blood | Fuel  |
 | Temperature regulation | Blood | Water |
 | Lubrication            |       | Oil   |
-| Brake                       |       |   Oil    |
+| Brake                  |       | Oil   |
 
 #### List of fluids:
 - Body

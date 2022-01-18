@@ -1,19 +1,8 @@
-﻿<h1>ضعف انسان</h1>
+﻿# Human strength and weekness
 
-<ul>
-    <li>
-        <a href="/path/human-weakness/independent-or-dependent">مستقل؟ یا وابسته؟</a>
-    </li>
-    <li>
-        <a href="/path/human-weakness/meteoroid-impact">برخورد شهاب سنگ</a>
-    </li>
-    <li>
-        <a href="/path/human-weakness/richest">ثروتمندترین</a>
-    </li>
-    <li>
-        <a href="/path/human-weakness/bad-smell">بوی بد</a>
-    </li>
-    <li>
-        <a href="/path/human-weakness/superpower">Superpower</a>
-    </li>
-</ul>
+- [Independent? or dependent?](independent-or-dependent)
+- [Meteroid impact](meteoroid-impact)
+- [Richest](richest)
+- [Bad smell](bad-smell)
+- [Superpower](superpower)
+- [Tropical cyclone](tropical-cyclone)

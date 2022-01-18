@@ -3,7 +3,7 @@ const path = require('path');
 import Error from 'next/error';
 import Breadcrumb from '../components/Breadcrumb';
 import { markdownClasses } from '../components/MarkdownClasses';
-const marked = require("marked");
+import { marked } from 'marked';
 
 const index = ({ urlSegments, content, errorCode, type }) => {
 
@@ -57,7 +57,7 @@ export async function getServerSideProps({ params, res }) {
                 content = content.slice(1);
             }
             content = content.replace('markdownClasses', markdownClasses);
-            content = marked(content);
+            content = marked.parse(content);
             const result = { props: { urlSegments: urlSegments, content: content, type } };
             //console.timeEnd('time');
             return result;

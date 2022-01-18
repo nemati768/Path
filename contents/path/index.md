@@ -1,19 +1,32 @@
 # Path
 
-See the [Flowchart](flowchart)
+[Flowchart of finding the truth](flowchart)
+
+### Pillars
+- World is deisgned
+- Designer is one
+
+### Main topics
 
 - [Nature vs human design](nature-vs-human-design/index)
 - [Life & death](life-and-death/index)
+- [Constancy](constancy/index)
 - [Comparison](comparison/index)
 - [Tahrif](tahrif/index)
 - [Quran & science](quran-and-science/index)
 - [Muhammad](muhammad)
+- [Logic](logic/index)
+- [Derivation](derivation/index)
+
+### Other topics
+
+- [Behaviors' verification](behaviors-verification/index)
+- [Claims' verification](claims-verification/index)
+- [Verification techniques](verification-techniques/index)
 - [Human strengths & weeknesses](human-strength-and-weakness/index)
-- [Constancy](constancy/index)
-- [Claims' defects](claims-defects)
-- [Logic](logic)
-- [Do & don'ts](do-and-donts)
-- [Derivation](derivation)
+- [Evil](evil/index)
+- [Logic](logic/index)
+- [History](history/index)
 
 Path is not about past or future. It's not about time.
 
@@ -23,86 +36,28 @@ Whenever we fall into doubts, we open this map. Current position gets its meanin
 
 And if we lose the path, we lose tomorrow too. We won't be able to find why will we live it. It comes as all other days, and it passes as all other days, and we get nothing from it. It becomes **one more lost day**.
 
-<h3>
-    نکات مهم در مورد مسیر:
-</h3>
-<ul>
-    <li>
-        ما داریم جهان رو سیستماتیک میشناسیم، پس چرا هدایت رو سیستماتیک نشناسیم؟
-    </li>
-    <li>
-        در این استراتژی، من از تکنیک inclusion و exclusion برای اطلاعات استفاده میکنم. یعنی پذیرش و رد. حجم اطلاعات خیلی زیاده، و هیچ کس نمیتونه همه این اطلاعات رو پردازش کنه. بنابراین من مثل پاک کردن عدس، ذره ذره اطلاعات کسب میکنم، و در هر قلم اطلاعاتی، تصمیم میگیرم که آیا میپذیرم یا نمیپذیرم و به چه دلایلی.
-    </li>
-    <li>
-        اگر طراحی باشه، اون طراح زاییده ذهن من نیست. Subjective و ذهنی نیست. Objective و عینیه. بنابراین من طراح رو تعریف نمیکنم. من فقط میتونم طراح رو بیابم. نه طراح، و نه طراحی اون لزوما نباید مطابقت داشته باشه با امیال من، یا امیال مردم جهان.
-    </li>
-    <li>
-        اکثر مراحل مسیر، قابل اثبات جهانی نیستن. قابل اثبات عینی و objective نیستن. فقط یه حقیقت شخصی (personal truth) محسوب میشن که شما خودتون باید حقیقت داشتنش رو قبول، یا رد کنین.
-        <ul>
-            <li>
-                مثلا هیچ کس نمیتونه اثبات کنه که بعد از مرگ جهانی هست، یا اثبات کنه که نیست. هیچ گاه این اتفاق نخواهد افتاد. ما فقط حقیقت رو خودمون درون وجودمون انتخاب و باور میکنیم.
-            </li>
-            <li>
-                اما میشه اثبات کرد که نسخه کنونی قرآن با نسخه یافته شده 1300 سال قبل تفاوت های اندکی داره. این کار اثبات objective داره.
-            </li>
-        </ul>
-    </li>
-    <li>
-        توی اکثر مراحل، ما دلایل متضاد داریم. مهم اینه که ترازوی عقل و دل شما، به کدوم سمت بیشتر تمایل پیدا کنه و کدوم رو بیشتر قبول داشته باشه.
-        <ul>
-            <li>
-                مثلا من اگه 10 تا دلیل رو میپذیرم که جهان خالق نداره، 100 تا دلیل اونور هست برام که جهان خالق داره. پس کفه ترازو به سمت پذیرش خلق و خالق سنگین تره.
-            </li>
-            <li>
-                یا مثلا اگه در انتخاب بهترین مچ بین خدایان، برای الله 5 تا دلیل هست که رد شه تو ذهنم، 20 تا دلیل هست که بپذیرمش. کفه ترازو به سمت انتخاب الله سنگین تره.
-            </li>
-        </ul>
-    </li>
-    <li>
-        من کاملا جسورانه تمامی نکاتی که در ذهنم هست رو به روی کاغذ میارم. نه با نیت سرکوب حقایق. بلکه با نیت یافتن پاسخی برای پرسش هایی که ذهن هر حقیقت جویی رو مشغول میکنه.
-    </li>
-    <li>
-        من نه شیعه هستم، نه سونی. من فقط تلاشم اینه که تسلیم الله باشم. اگرچه در تاریخ حقیقت جویی میکنم، اما برچسبی به خودم نمیزنم و از مراسمات غیر الله به دورم.
-    </li>
-    <li>
-        من بعد از باور وجود طراح، چند راه دارم برای شناخت بیشترش:
-        <ul>
-            <li>
-                یا در همین گام و شناخت همین چند صفت توقف کنم.
-            </li>
-            <li>
-                یا مدعی بشم که به نحوی با این طراح ارتباطی برقرار کردم، که اینو خودم میدونم اقلا هنوز اتفاق نیفتاده.
-            </li>
-            <li>
-                یا صرفا راسیونالیستی صفات دیگری برای طراح استنتاج کنم. مثلا حالا که تواناست، پس باید دستان بزرگی یا زیادی داشته باشه.
-            </li>
-            <li>
-                یا به دنبال چنین طراحی در میان مردم بگردم و ببینم آیا شخص یا اشخاص دیگری او رو میشناسن و سراغ دارن؟
-            </li>
-        </ul>
-    </li>
-    <li>
-        از محل های فکر کردن عمیق برای من، درک ضعف انسان در خلقه. در داشتن صفاتی الهی که به رب نسبت میدیم.
-    </li>
-</ul>
-<h3>
-    نکته مهم در مورد قسمت انتخاب الله:
-</h3>
-<ul>
-    <li>
-        اگه یهوه انتخاب میشد، کتاب تورات در ادامه مطالعه میشد و زبان عبری رو یاد میگرفتم.
-    </li>
-    <li>
-        اگه برهما انتخاب میشد، کتاب های Veda مطالعه میشدن و زبان سانسکریت رو یاد میگرفتم.
-    </li>
-    <li>
-        اگه اهورا مزدا انتخاب میشد، کتاب اوستا مطالعه میشد و زبان اوستایی رو یاد میگرفتم.
-    </li>
-</ul>
-<p>
-    اصولا منظور اینه که انتخاب الله بر اساس پیشینه من صورت نگرفته. صرفا بر اساس قیاس خصوصیات معرفی شده از او، و سبک سنگین کردن و تفکر در خصوصیات صورت گرفته. و مابقی خدایان مشکلاتی داشتن که من نتونستم به عنوان خالق اونها رو بپذیرم. شاید اون مشکلات ناشی از تحریف ها باشه. شاید واقعا در اصل دینشون باشه. به هر حال امروز که من دنبال اون خصوصیات بودم، با عقل و دلم جور نبودن.
-</p>
+### Some notes
 
-@*
-    read and answer => https://en.wikipedia.org/wiki/Criticism_of_the_Quran
-*@
+- We learn the universe systematically, why not finding the truth systematically?
+- I use inclusion and exclusion of information. The amount of data is too much and nobody can know or learn all of them. Just like cleaning lentiles, I learn in small chunks and in each phase I decide what to accept as my personal truth and what to reject, based on what I have learned. Decision is based on "weight" or abductive reasoning.
+- If there is a designer, that designer is not subjective. It's objective. Thus I don't define him. I can only find him. He and his design is under no obligation to please me and obey my will, or the will of anyone.
+- A lot of steps in finding the truth are not universally provable. They can't be proved objectively, just the way materialistic science and math proves things. They are personal truths that you prove for yourself and choose for yourself.
+    - Example: Nobody can prove the existence or absence of the afterlife. We only choose to believe or deny it, based on our incomplete knowledge.
+- Some steps of finding the truth can be proven. 
+    - Example: a list can be made of the differences between the current Quran's text with old manuscripts.
+    - Date of manuscripts can be proved using radioactive dating or other scientific methods.
+- In many steps, we have contrary arguments. We just choose based on what our mind and heart assumes to be the better choice.
+    - Examples: I might accept some reasons that this world is not designed (like long time to be designed and some design flaws), But I see a lot of other reasons that this world is designed. Thus abductive reasoning for me is that this world is desgined.
+    - Examples: Allah is the match that I want to find. Some reasons might exist to disapprove that (like Allah talking about helping him), but a lot of other reasons exist to support that he is the one.
+- We need to be frank and fair. We have questions and notes. We declare them, or write them, or think about them. Not because we want to deny or accept. Simply because we have them and we need answers.
+- I am neither Shia, nor Sunni. I only intend to be submissive to Allah. And this is because I accept him as the only deity and he has ordered me to do so. I study history, but I won't label myself with any sect. I stay away from things that are not in the Quran.
+- Attributes of each claimed designer/creator/deity, and the source of those claims, are the most important things for my analysis.
+- I use our weaknesses, as signs.
+- Language must not be a barrier for finding the truth. I chose to learn Arabic, because I chose Allah. To deny truth because of language, is not my choice.
+    - Yahweh => Torah => Hebrew (probably Aramaic or Greek)
+    - Brahma => Veads => Sanskrit
+    - Ahura Mazda => Avesta => Avestan
+    - Buddha => Pali
+    - Confucionism => Old chinesse
+- While I have this question that why an old language should be forced upon us (like reading Quran as is) and while I have no answer for it, I know that path of finding the truth requires to know more, including learning the language of the source scripts.
+- I chose Allah, not because I was born muslim. Because I realized that his attributes are compatible with what I was searching for. I was born Shia, and I'm no longer a Shia. Other deities also have attributes. I could not accept them based on my research. Their attributes might have been tampered with, or they might be their true attributes. But at the current time with my limited knowledge, I could not choose them.

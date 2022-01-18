@@ -1,7 +1,5 @@
-﻿<h1>گرامر عربی (نحو و صرف)</h1>
+﻿# Arabic grammar (nahw & sarf)
 
-<ul>
-    <li>
-        <a href="/social-sciences/arabic-grammar/verb-forms">باب ها</a>
-    </li>
-</ul>
+- [Past tense](past-tense)
+- [Present tense](present-tense)
+- [Verb forms](verb-forms)

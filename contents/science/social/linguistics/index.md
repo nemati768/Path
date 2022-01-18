@@ -1,40 +1,22 @@
-﻿<h1>زبانشناسی</h1>
+# Linguistics
 
-<ul>
-    <li>
-        <a href="/social-sciences/linguistics/definition">تعریف</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/abstract">انتزاعی</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/affix">وند</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/pronunciation">تلفظ</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/mispronunciation">تلفظ غلط</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/vocabulary">دامنه لغت</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/homophone">هم آوا</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/pragmatics">کاربردشناسی</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/linguistic-imperialism">امپریالیسم زبانی</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/etymology">ریشه شناسی</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/acronym">اختصار</a>
-    </li>
-    <li>
-        <a href="/social-sciences/linguistics/morphology">صرف</a>
-    </li>
-</ul>
+- [Definition](definition)
+- [Abstracts](abstract)
+- [Affix](affix)
+- [Pronunciation](pronunciation)
+- [Mispronunciation](mispronunciation)
+- [Vocabulary](vocabulary)
+- [Homophone](homophone)
+- [Pragmatics](pragmatics)
+- [Linguistic imperialism](linguistic-imperialism)
+- [etymology](etymology)
+- [Acronym](acronym)
+- [Morphology](morphology)
+
+
+### Resources
+
+- [IPA chart](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
+- [Consonants chart](https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio)
+- [Vowel diagram](https://en.wikipedia.org/wiki/Vowel_diagram)
+- [Aze Linguistics](https://youtube.com/c/AzeLinguistics)
